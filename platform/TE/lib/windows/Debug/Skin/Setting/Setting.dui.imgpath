@@ -1,0 +1,360 @@
+<IMAGEPATHMAP>
+	<IMAGE name="AllPOPWIN_BGbg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\bg.png"/>
+	</IMAGE>
+	<IMAGE name="AutoReply_txt">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹窗—输入框_212121(3).png"/>
+	</IMAGE>
+	<IMAGE name="BG4444">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框44444_97%.png"/>
+	</IMAGE>
+	<IMAGE name="BTN_COM_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\btn_default.png"/>
+	</IMAGE>
+	<IMAGE name="Basic_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\setting_tab_jiben.png"/>
+	</IMAGE>
+	<IMAGE name="BtnClosePOP_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="BtnMinPOP_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Min_bg.png"/>
+	</IMAGE>
+	<IMAGE name="Call_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\setting_tab_hujiaoyewu.png"/>
+	</IMAGE>
+	<IMAGE name="ComboBoxCTRL_Bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\xialakuang.png"/>
+	</IMAGE>
+	<IMAGE name="CommonTabBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\NetWork_TabPage_bg.png"/>
+	</IMAGE>
+	<IMAGE name="HeadEditHot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\column2\enter box(2).png"/>
+	</IMAGE>
+	<IMAGE name="INPUT_EDITCTRL_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\INPUT_EDITCTRL_bg-.png"/>
+	</IMAGE>
+	<IMAGE name="K_digi_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="LogoSetting_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\beijingzhijiao.png"/>
+	</IMAGE>
+	<IMAGE name="MediaSetting_chkMicrophone">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\媒体设置\MediaSetting_chkMicrophone.png"/>
+	</IMAGE>
+	<IMAGE name="MediaSetting_chkVideo">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\媒体设置\MediaSetting_chkVideo.png"/>
+	</IMAGE>
+	<IMAGE name="MediaSetting_chkVoice">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\媒体设置\MediaSetting_chkVoice.png"/>
+	</IMAGE>
+	<IMAGE name="MediaSetting_frmVoiceInput_slbSetVoice_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\媒体设置\MediaSetting_frmVoiceInput_slbSetVoice_bg.png"/>
+	</IMAGE>
+	<IMAGE name="MediaSetting_frmVoiceInput_slbSetVoice_thumb">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\媒体设置\MediaSetting_frmVoiceInput_slbSetVoice_thumb.png"/>
+	</IMAGE>
+	<IMAGE name="MediaSetting_frmVoiceInput_stcVoiceIcon_icon">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\R_system_shengyin(6).png"/>
+	</IMAGE>
+	<IMAGE name="Media_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\setting_tab_meiti.png"/>
+	</IMAGE>
+	<IMAGE name="MenuBtn">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\按钮\1.png"/>
+	</IMAGE>
+	<IMAGE name="OnlineFlagGreen">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_23\切图汇总\通用\状态图标\G_IM_lu_9X9.png"/>
+	</IMAGE>
+	<IMAGE name="PersonalSetting_contactway_combox">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\column3\enter box_24(2).png"/>
+	</IMAGE>
+	<IMAGE name="Pesron_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\setting_tab_geren.png"/>
+	</IMAGE>
+	<IMAGE name="ScrollFairy_plus_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\ScrollFairy_plus.png"/>
+	</IMAGE>
+	<IMAGE name="ScrollFairy_plus_normal">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\ScrollFairy_plus.png"/>
+	</IMAGE>
+	<IMAGE name="ScrollFairy_plus_press">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\ScrollFairy_plus.png"/>
+	</IMAGE>
+	<IMAGE name="Server_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\setting_tab_server.png"/>
+	</IMAGE>
+	<IMAGE name="Setting_button_dis">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\R_system_button_80x24(4).png"/>
+	</IMAGE>
+	<IMAGE name="Setting_chk_icon">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\Setting_chk_icon.png"/>
+	</IMAGE>
+	<IMAGE name="Setting_split_icon">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\split_horizontal line.png"/>
+	</IMAGE>
+	<IMAGE name="Status">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\自己整理的切图\status_icon\icon_3_9X9.png"/>
+	</IMAGE>
+	<IMAGE name="SystemSetting_LogoHotbg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\R_roll.png"/>
+	</IMAGE>
+	<IMAGE name="blackPopWin_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\bg.png"/>
+	</IMAGE>
+	<IMAGE name="btnLeftCtrl_normal">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\btnLeftCtrl.png"/>
+	</IMAGE>
+	<IMAGE name="btnLeftCtrl_press">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\btnLeftCtrl.png"/>
+	</IMAGE>
+	<IMAGE name="btnRightCtrl_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\btnRightCtrl.png"/>
+	</IMAGE>
+	<IMAGE name="btnRightCtrl_normal">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\btnRightCtrl.png"/>
+	</IMAGE>
+	<IMAGE name="btnRightCtrl_press">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\btnRightCtrl.png"/>
+	</IMAGE>
+	<IMAGE name="btnSelectLogo">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\choose.png"/>
+	</IMAGE>
+	<IMAGE name="btnSpin_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\R_system_xuzhuang(3).png"/>
+	</IMAGE>
+	<IMAGE name="btnSpin_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\R_system_xuzhuang(3).png"/>
+	</IMAGE>
+	<IMAGE name="btnSpin_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\R_system_xuzhuang(3).png"/>
+	</IMAGE>
+	<IMAGE name="btnVoicePlay_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop V500R002C00切图\02设置\切图\基本设置\btnVoicePlay.png"/>
+	</IMAGE>
+	<IMAGE name="btnVoicePlay_normal">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\基本设置\btnVoicePlay.png"/>
+	</IMAGE>
+	<IMAGE name="btnVoicePlay_press">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop V500R002C00切图\02设置\切图\基本设置\btnVoicePlay.png"/>
+	</IMAGE>
+	<IMAGE name="btn_1_bg">
+		<IMAGEPATH colorcase="default" path="F:\项目——项目\素材\png\LsvtItemBkg.png"/>
+	</IMAGE>
+	<IMAGE name="btn_close_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="btnleftCtrl_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\btnLeftCtrl.png"/>
+	</IMAGE>
+	<IMAGE name="cbxBtn">
+		<IMAGEPATH colorcase="default" path="C:\Users\wWX150893\Desktop\灰化状态\R_xiala(3).png"/>
+	</IMAGE>
+	<IMAGE name="checkBox_Check_disable">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\Setting_chk_icon.png"/>
+	</IMAGE>
+	<IMAGE name="chk_ownset_check_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\images\未标题-1 副本.png"/>
+	</IMAGE>
+	<IMAGE name="chk_ownset_uncheck_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\images\新建文件夹 (2)\tab01_01.png"/>
+	</IMAGE>
+	<IMAGE name="chk_systemset_check_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\images\未标题-2 副本.png"/>
+	</IMAGE>
+	<IMAGE name="chk_systemset_uncheck_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\images\新建文件夹 (2)\tab02_02.png"/>
+	</IMAGE>
+	<IMAGE name="col1_personal_card.spp">
+		<IMAGEPATH colorcase="default" path="C:\Users\s00179935.CHINA\Desktop\temp\column2_title_bg"/>
+	</IMAGE>
+	<IMAGE name="col3_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\bg.png"/>
+	</IMAGE>
+	<IMAGE name="coverbg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\head_change.png"/>
+	</IMAGE>
+	<IMAGE name="edit_dis">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\column3\enter box_24(2).png"/>
+	</IMAGE>
+	<IMAGE name="frmMessageSetting_btnAddSomeName_icon">
+		<IMAGEPATH colorcase="default" path="D:\zyl_doing\ZHOU R_System_new\R_system切图\NewMeeting_btnPlus_normal.png"/>
+	</IMAGE>
+	<IMAGE name="frm_img1_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\u=1878299624,47882178&amp;fm=23&amp;gp=0.png"/>
+	</IMAGE>
+	<IMAGE name="frm_img2_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\10022-110P512232575.png"/>
+	</IMAGE>
+	<IMAGE name="frm_topBar_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\frm_topBar_bg.png"/>
+	</IMAGE>
+	<IMAGE name="headPicLoGoObj_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\home_.png"/>
+	</IMAGE>
+	<IMAGE name="headRightDown_state">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\话机联动\话机联动\切图\ip-phone.png"/>
+	</IMAGE>
+	<IMAGE name="im_minimize_btn">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00216304\Desktop\im_minimize_btn"/>
+	</IMAGE>
+	<IMAGE name="listviewItem_bg_normal">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_23\切图汇总\通用\popWinListItembg\cutline.png"/>
+	</IMAGE>
+	<IMAGE name="listviewItem_bg_selected">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_23\切图汇总\通用\popWinListItembg\pop_menu_selected.png"/>
+	</IMAGE>
+	<IMAGE name="login_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="login_close_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\images\新建文件夹 (2)\删除.png"/>
+	</IMAGE>
+	<IMAGE name="login_close_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\images\新建文件夹 (2)\删除.png"/>
+	</IMAGE>
+	<IMAGE name="login_close_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\images\新建文件夹 (2)\删除.png"/>
+	</IMAGE>
+	<IMAGE name="logo2bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\tuxiangkuang.png"/>
+	</IMAGE>
+	<IMAGE name="logo3bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\20130729173118.png"/>
+	</IMAGE>
+	<IMAGE name="logosetting_inner_bg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\WelcomeTop弹出框下部.png"/>
+	</IMAGE>
+	<IMAGE name="passwordchk">
+		<IMAGEPATH colorcase="default" path="E:\Desktop新特性LADP\setting_tab_password.png"/>
+	</IMAGE>
+	<IMAGE name="popSinglelist_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\xialakuang.png"/>
+	</IMAGE>
+	<IMAGE name="popVideo_top_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\POP_14_bg.png"/>
+	</IMAGE>
+	<IMAGE name="portraitBorder2">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\头像\A_all_touxiangkuang.png"/>
+	</IMAGE>
+	<IMAGE name="portrait_border_img">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\头像\A_all_touxiangkuang.png"/>
+	</IMAGE>
+	<IMAGE name="rdx_disable">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\rdx.png"/>
+	</IMAGE>
+	<IMAGE name="setting">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\补充切图20120705\E_group_bg.png"/>
+	</IMAGE>
+	<IMAGE name="setting_bottom">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\E_group2012_7_9\E_group_bottonline.png"/>
+	</IMAGE>
+	<IMAGE name="setting_bottom_noshadow">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\WelcomeTop弹出框下部.png"/>
+	</IMAGE>
+	<IMAGE name="setting_btn">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\btn_default.png"/>
+	</IMAGE>
+	<IMAGE name="setting_column2_title_noshadow">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\通用\column2\coloum2_title_eeeeee.png"/>
+	</IMAGE>
+	<IMAGE name="setting_groupTitle_arrow">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\标注汇总\R_System_new\R_system切图\R_system_sanjiao(2).png"/>
+	</IMAGE>
+	<IMAGE name="setting_input_border">
+		<IMAGEPATH colorcase="default" path="C:\Users\s00179935.CHINA\Desktop\input_border.png"/>
+	</IMAGE>
+	<IMAGE name="setting_noshadow">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\通用\column2\coloum3_ffffff.png"/>
+	</IMAGE>
+	<IMAGE name="setting_scroll_thumb">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\scrollbar\scroll.png"/>
+	</IMAGE>
+	<IMAGE name="setting_srollbar">
+		<IMAGEPATH colorcase="default" path="C:\Users\s00179935.CHINA\Desktop\scrollbar.png"/>
+	</IMAGE>
+	<IMAGE name="setting_tab_focus_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\setting_tab_focus_bg.png"/>
+	</IMAGE>
+	<IMAGE name="setting_top">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012-6-29-2\切图汇总\G-IM\Col 2\col2_title.png"/>
+	</IMAGE>
+	<IMAGE name="setting_top_btnClose">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012-6-29-2\切图汇总\G-IM\Col 2\icon_right_1.png"/>
+	</IMAGE>
+	<IMAGE name="setting_top_chkThreeColumn">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012-6-29-2\切图汇总\G-IM\Col 2\icon_right_2.png"/>
+	</IMAGE>
+	<IMAGE name="setting_top_noshadow">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\WelcomeTop弹出框顶部标题头背景.png"/>
+	</IMAGE>
+	<IMAGE name="setting_top_title">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\R_system\R_system_shezhi-1.png"/>
+	</IMAGE>
+	<IMAGE name="setting_type_title">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\标注汇总\R_System_new\R_system切图\R_System_bg_1X27(3).png"/>
+	</IMAGE>
+	<IMAGE name="setting_type_title_arrow_down">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\R_System\K_1_sanjiao_down.png"/>
+	</IMAGE>
+	<IMAGE name="setting_type_title_arrow_up">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\R_System\K_1_sanjiao_up.png"/>
+	</IMAGE>
+	<IMAGE name="setting_type_title_hover">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\images2012——7——13\R_System_bg_2.png"/>
+	</IMAGE>
+	<IMAGE name="setting_type_title_normal">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\images2012——7——13\R_System_bg_1.png"/>
+	</IMAGE>
+	<IMAGE name="setting_type_title_press">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\images2012——7——13\R_System_bg_3.png"/>
+	</IMAGE>
+	<IMAGE name="sliderBarFront_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\媒体设置\sliderBarFront_bg.png"/>
+	</IMAGE>
+	<IMAGE name="split_horizontal line">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\split_horizontal line.png"/>
+	</IMAGE>
+	<IMAGE name="split_vertical_line">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\split_vertical_line.png"/>
+	</IMAGE>
+	<IMAGE name="status7">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\自己整理的切图\status_icon\icon_3_7X7.png"/>
+	</IMAGE>
+	<IMAGE name="stcDynamicVoiceFrontPic">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\R_system_O.png"/>
+	</IMAGE>
+	<IMAGE name="stcOnline">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\B_mini\B_mini_minilvdian.png"/>
+	</IMAGE>
+	<IMAGE name="stcSet">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_Home_master\A-Masteshezhi.png"/>
+	</IMAGE>
+	<IMAGE name="stcSubMenuIcon">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\B_mini\B_mini_zaixian-jiantou.png"/>
+	</IMAGE>
+	<IMAGE name="systemset_logo_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\头像设置\SystemSetting_LogoHotbg.png"/>
+	</IMAGE>
+	<IMAGE name="tab_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\bg_tab.png"/>
+	</IMAGE>
+	<IMAGE name="tab_selected_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\自定义头像\bg_tab_selected.png"/>
+	</IMAGE>
+	<IMAGE name="threeColumn_checked">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\按钮\M_meeting_shouhui(3).png"/>
+	</IMAGE>
+	<IMAGE name="title_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\A_all_bg_title.png"/>
+	</IMAGE>
+	<IMAGE name="uncheck_disable">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\rdx.png"/>
+	</IMAGE>
+	<IMAGE name="whiteFrame_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\框.png"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

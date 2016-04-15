@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="Setting" Author="" Company="" CreateDate="" Path="E:\song\directUI\working\ThemesNew\Setting\Setting.dsln"/>
+	<Dui>
+		<Guid0F960578D38E4E39B0EC3C7997F97020 DuiName="Setting" DuiPath="E:\song\directUI\working\ThemesNew\Setting\Setting.dui">
+			<Guid3144675FBCB942CEBE38121748B02497 SknName="Setting" SknPath="E:\song\directUI\working\ThemesNew\Setting\Setting.skn" Theme=""/>
+		</Guid0F960578D38E4E39B0EC3C7997F97020>
+	</Dui>
+</DirectUI>
+

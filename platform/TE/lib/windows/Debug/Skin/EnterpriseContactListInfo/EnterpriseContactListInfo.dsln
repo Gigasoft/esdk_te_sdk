@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="EnterpriseContactListInfo" Author="" Company="" CreateDate="" Path="D:\EnterpriseContactListInfo\EnterpriseContactListInfo.dsln"/>
+	<Dui>
+		<GuidFFE1BF97FFB749C4902935723E8989F9 DuiName="EnterpriseContactListInfo" DuiPath="D:\EnterpriseContactListInfo\EnterpriseContactListInfo.dui">
+			<Guid82D2AFE9F73A4854B2690AEDD413C75A SknName="EnterpriseContactListInfo" SknPath="D:\EnterpriseContactListInfo\EnterpriseContactListInfo.skn" Theme=""/>
+		</GuidFFE1BF97FFB749C4902935723E8989F9>
+	</Dui>
+</DirectUI>
+

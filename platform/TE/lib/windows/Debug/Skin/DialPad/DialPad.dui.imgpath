@@ -1,0 +1,252 @@
+<IMAGEPATHMAP>
+	<IMAGE name="DialAddPerson">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\拨号盘\拨号盘\image\P_dial_contact.png"/>
+	</IMAGE>
+	<IMAGE name="DialAddPerson_disable">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\needed\P_dial_contact_disable.png"/>
+	</IMAGE>
+	<IMAGE name="DialAudioCallBtn">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\SmartCallIconSmall.png"/>
+	</IMAGE>
+	<IMAGE name="DialCallIconBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\拨号盘\拨号盘\image\P_dial_call.png"/>
+	</IMAGE>
+	<IMAGE name="DialCallOutDisable">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\needed\P_dial_37.png"/>
+	</IMAGE>
+	<IMAGE name="DialPadDeleteDISABLEbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\Dial_CancelSet_Dis.png"/>
+	</IMAGE>
+	<IMAGE name="DialPadDeleteIconBg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\P_dial_delete.png"/>
+	</IMAGE>
+	<IMAGE name="DialPlusIconDisable">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\needed\P_dial_Plus.png"/>
+	</IMAGE>
+	<IMAGE name="DialPointBg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\P_dial_30.png"/>
+	</IMAGE>
+	<IMAGE name="DialVedioIconsBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\拨号盘\拨号盘\image\P_dial_camera.png"/>
+	</IMAGE>
+	<IMAGE name="DialVideoCallBtn">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\VideoCallIconSmall.png"/>
+	</IMAGE>
+	<IMAGE name="DialVideoDisablebg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\needed\P_dial_camera1.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\拨号盘\Dial_CallNumNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallAddNor">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\DialPad_NO_Left.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallCancelDisable">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\btn_cancle_enable"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallCancelNor">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\DialPad_NO_Right.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum#Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNumBgL_Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum#_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum#Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum*Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\拨号盘\Dial_CallNumNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum+">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\DialPad_NO_Mid.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum+ICon">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\P_dial_31.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum.">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\DialPad_NO_Left.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum0Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNumBgL_Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum0_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum0Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum1Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\拨号盘\Dial_CallNumNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum1_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum1Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum2Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNumBgL_Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum2_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum2.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum3Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNumBgL_Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum3_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum3Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum4Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\拨号盘\Dial_CallNumNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum4_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum4Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum5Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\拨号盘\Dial_CallNumNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum5_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum5Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum6Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNumBgL_Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum6_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum6Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum7Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\拨号盘\Dial_CallNumNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum7_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum7Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum8Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\拨号盘\Dial_CallNumNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum8_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum8Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum9Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNumBgL_Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum9_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNum9Nor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNumStar_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\cfrtu\Dial_CallNumStarNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNumVideo">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\DialPad_NO_Right.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallOUtDis">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\needed\call.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallOutNor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\btn_num_video_call.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\拨号盘\Dial_CallNumNor.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_0">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_0.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_1">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_1.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_2">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_2.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_3">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_3.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_4">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_4.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_5">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_5.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_6">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_6.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_7">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_7.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_8">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_8.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_9">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_9.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_CallOut">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\btn_num_voicecall.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_Cancel">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\btn_num_delete.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_colon">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_colon.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call_Common_Btn_Bg_dot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\dialpad\btn_num_dot.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Delete_DisableBg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\拨号盘\needed\Disable.png"/>
+	</IMAGE>
+	<IMAGE name="LSTV_CARD_ITEM_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\contact-huaguodianji.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_BG">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\未完成\RK_Pop_BG菜单背景.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_Goubg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\RKPOP_Item_Gou_bg.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_Item_HOTbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\choose-pop.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_LeftBar">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\RK_POP_LeftGrayBar.png"/>
+	</IMAGE>
+	<IMAGE name="TreeCallOut">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\TreeOutinggoingCall.png"/>
+	</IMAGE>
+	<IMAGE name="TreeCallin">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\TreeInComingCall.png"/>
+	</IMAGE>
+	<IMAGE name="TreeMissCall">
+		<IMAGEPATH colorcase="default" path="F:\code_manager\20130829\TP_Test\Winbin\Debug\Image\TreeMissedCall.png"/>
+	</IMAGE>
+	<IMAGE name="col1_search_bar.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\col1_search_bar.png"/>
+	</IMAGE>
+	<IMAGE name="col2TitleBarbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\主面板\titleBar-WF.png"/>
+	</IMAGE>
+	<IMAGE name="col2_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\col2_NoShadow_bg.png"/>
+	</IMAGE>
+	<IMAGE name="col2titlebar">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\主面板\titleBar-WF.png"/>
+	</IMAGE>
+	<IMAGE name="column2_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\column2_bg.png"/>
+	</IMAGE>
+	<IMAGE name="column2_search_bg_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\col1_search_bar_green.png"/>
+	</IMAGE>
+	<IMAGE name="main_conversation_card_dial_icon">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\联系人\phone_ICON.png"/>
+	</IMAGE>
+	<IMAGE name="main_conversation_card_video_dial">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\联系人\video_ICON.png"/>
+	</IMAGE>
+	<IMAGE name="main_search_left_btn.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\main_search_left_btn.png"/>
+	</IMAGE>
+	<IMAGE name="newbtnColse14_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="newbtnColse14_normal">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="newbtnColse14_press">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="tab_title_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\公共\tab_title_bg.png"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

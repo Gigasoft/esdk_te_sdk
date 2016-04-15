@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="uc2.0" Author="" Company="" CreateDate="" Path="E:\song\directUI\working\ThemesNew\Themes\songhuamei\Login\Login.dsln"/>
+	<Dui>
+		<Guid0B8D073AECF1434DA7EBCDF30171CEE7 DuiName="uc2.0" DuiPath="E:\song\directUI\working\ThemesNew\Themes\songhuamei\Login\Login.dui">
+			<Guid6B7E5CCD508048149AB25DCBF256EA09 SknName="Default" SknPath="E:\song\directUI\working\ThemesNew\Themes\songhuamei\Login\Login.skn" Theme=""/>
+		</Guid0B8D073AECF1434DA7EBCDF30171CEE7>
+	</Dui>
+</DirectUI>
+

@@ -1,0 +1,175 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh-cn" xml:lang="zh-cn">
+<head>
+      <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+   
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta name="copyright" content="(C) 版权 2005">
+<meta name="DC.rights.owner" content="(C) 版权 2005">
+<meta name="DC.Type" content="task">
+<meta name="DC.Title" content="登录/退出">
+<meta name="abstract" content="介绍TE Desktop登录前配置、登录和退出的操作方法。">
+<meta name="description" content="介绍TE Desktop登录前配置、登录和退出的操作方法。">
+<meta name="DC.Relation" scheme="URI" content="../hlp/TEDesktop_concept_00000-zh.html">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="TEDesktop_xTask_00003-zh">
+<meta name="DC.Language" content="zh-cn">
+<link rel="stylesheet" type="text/css" href="../public_sys-resources/commonltr.css">
+<title>登录/退出</title>
+</head>
+<body style="clear:both; padding-left:10px; padding-top:5px; padding-right:5px; padding-bottom:5px"><a name="TEDesktop_xTask_00003-zh"></a><a name="TEDesktop_xTask_00003-zh"></a>
+
+
+
+<h1 class="topictitle1">登录/退出</h1>
+
+
+<div><p>介绍TE Desktop登录前配置、登录和退出的操作方法。</p>
+
+<div class="section"><h4 class="sectiontitle">登录前配置</h4>
+
+
+<div class="p">首次使用帐号登录TE Desktop前需要配置注册服务器和升级服务器，注册服务器即SC（SwitchCentre）服务器。配置注册服务器后，TE Desktop可以通过帐号拨打其他注册在同一SC服务器上的终端和加入视讯会议。配置服务器参数方法如下：</div>
+
+<ol><li><span>启动TE Desktop。</span></li><li><span>在登录界面右下角单击<span><img src="image/serverset.png"></span>，打开如<a href="#TEDesktop_xTask_00003-zh__fig1">图1</a>和<a href="#TEDesktop_xTask_00003-zh__fig3">图2</a>所示界面。</span>
+<p><div class="fignone" id="TEDesktop_xTask_00003-zh__fig1"><a name="TEDesktop_xTask_00003-zh__fig1"></a><a name="fig1"></a><span class="figcap"><b>图1 </b>注册服务器设置</span>
+
+<br><span><img src="image/registerserver.png"></span></div>
+<div class="fignone" id="TEDesktop_xTask_00003-zh__fig3"><a name="TEDesktop_xTask_00003-zh__fig3"></a><a name="fig3"></a><span class="figcap"><b>图2 </b>高级设置</span>
+
+<br><span><img src="image/updateserver.png"></span></div>
+</p>
+</li><li><span>配置注册服务器和高级设置参数，参数及说明请参见<a href="#TEDesktop_xTask_00003-zh__table_03BDAC11">表1</a>。</span>
+<p>
+<div class="tablenoborder"><a name="TEDesktop_xTask_00003-zh__table_03BDAC11"></a><a name="table_03BDAC11"></a><table cellpadding="4" cellspacing="0" summary="" id="TEDesktop_xTask_00003-zh__table_03BDAC11" frame="border" border="1" rules="all"><caption><b>表1 </b>注册服务器和高级设置参数</caption>
+<thead align="left">
+<tr>
+<th class="cellrowborder" valign="top" width="50%" id="mcps1.3.1.3.3.2.1.2.3.1.1"><p>参数</p>
+</th>
+
+<th class="cellrowborder" valign="top" width="50%" id="mcps1.3.1.3.3.2.1.2.3.1.2"><p>说明</p>
+</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+<tr>
+<td class="cellrowborder" colspan="2" valign="top" headers="mcps1.3.1.3.3.2.1.2.3.1.1 mcps1.3.1.3.3.2.1.2.3.1.2 "><p><strong>服务器设置参数</strong></p>
+</td>
+
+</tr>
+
+<tr>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.1 "><p>注册服务器地址和端口号</p>
+</td>
+
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.2 "><div class="p"><ul><li>地址：SC服务器的IP地址，代理服务器的IP地址或者域名。</li><li>端口号：SC服务器的端口号。</li></ul>
+</div>
+<p>请从SC服务器管理员处获取。</p>
+</td>
+
+</tr>
+
+<tr>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.1 "><p>SIP URI</p>
+</td>
+
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.2 "><p>使用<span class="uicontrol">“帐号@SIP服务器的IP地址或域名”</span>格式输入。</p>
+<p>帐号为从SC服务器放号的号码。帐号、SIP服务器IP地址或者域名请从SC服务器管理员处获取。</p>
+</td>
+
+</tr>
+
+<tr>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.1 "><p>跳过登录</p>
+</td>
+
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.2 ">单击后您将只能使用<span class="uicontrol">“IP地址:远端端口号”</span>呼叫远端，并且您将不能加入视讯会议。</td>
+
+</tr>
+
+<tr>
+<td class="cellrowborder" colspan="2" valign="top" headers="mcps1.3.1.3.3.2.1.2.3.1.1 mcps1.3.1.3.3.2.1.2.3.1.2 "><p><strong>高级设置参数</strong></p>
+</td>
+
+</tr>
+
+<tr>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.1 "><p>本地端口</p>
+</td>
+
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.2 "><ul><li>媒体端口：设置媒体流端口号。</li><li>SIP端口：设置SIP信令端口号。</li></ul>
+</td>
+
+</tr>
+
+<tr>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.1 "><p>传输模式</p>
+</td>
+
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.2 "><p>选择SIP信令传输的协议类型。</p>
+<ul><li>TLS：通过TLS为SIP信令提供加密安全传输。TLS传输模式具有较高安全性，建议选择此项。<p>选择此项，需要导入TLS根证书。缺省导入华为TLS根证书，即华为智真系统自带的TLS根证书，您也可以选择其他证书进行导入。</p>
+<div class="note"><span class="notetitle"> 说明： </span><div class="notebody">导入证书前，请确认证书的安全性，建议导入安全机构颁发的证书，以免带来风险。</div></div>
+</li><li>UDP：通过UDP为SIP信令提供最佳传输。</li></ul>
+</td>
+
+</tr>
+
+<tr>
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.1 "><p>升级服务器地址和端口号</p>
+</td>
+
+<td class="cellrowborder" valign="top" width="50%" headers="mcps1.3.1.3.3.2.1.2.3.1.2 "><div class="p"><ul><li>地址：升级服务器的IP地址。</li><li>端口号：升级服务器的端口号。</li></ul>
+</div>
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+</div>
+<p>注册服务器参数配置后立即生效，升级服务器参数需重启生效。</p>
+</p>
+</li><li><span>单击<span class="uicontrol">“保存”</span>。</span></li></ol>
+
+</div>
+
+<div class="section"><h4 class="sectiontitle">登录</h4>
+
+<ol><li><span>启动TE Desktop。</span></li><li><span>输入帐号和密码。</span>
+<p>未配置注册服务器时登录需要输入服务器地址，如<a href="#TEDesktop_xTask_00003-zh__fig2">图3</a>所示。帐号为从SC服务器放号的号码，帐号和密码从SC服务器管理员处获取。<div class="fignone" id="TEDesktop_xTask_00003-zh__fig2"><a name="TEDesktop_xTask_00003-zh__fig2"></a><a name="fig2"></a><span class="figcap"><b>图3 </b>登录界面</span>
+
+<br><span><img src="image/loginscreen.png"></span><br>
+</div>
+</p>
+</li><li><span>单击<span><img src="image/log.png"></span>，进入TE Desktop主界面。</span>
+<p><div class="note"><img src="../public_sys-resources/icon-note.gif"><span class="notetitle"> 说明： </span><div class="notebody">单击<span><img src="image/help.png"></span>可打开在线帮助页面，以帮助您了解和使用TE Desktop。</div></div>
+</p>
+</li></ol>
+
+</div>
+
+<div class="section"><h4 class="sectiontitle">退出登录</h4>
+
+
+<div class="p"><ul><li>如果您在登录界面尚未登录TE Desktop，单击右上方的<span><img src="image/close.png"></span>即可退出。</li><li>如果您已经登录TE Desktop：<ul><li>单击主界面上方的<span><img src="image/menu.png"></span>，在弹出的下拉框中选择<span class="uicontrol">“退出”</span>。</li><li>单击主界面右上方的<span><img src="image/close1.png"></span>。如果您已经在<span class="menucascade">“<span class="uicontrol"><span><img src="image/setting.png"></span></span> &gt; <span class="uicontrol">基本设置</span>”</span>下选择<span class="uicontrol">“退出程序”</span>，且不勾选<span class="uicontrol">“关闭主窗口出现提示框”</span>，则单击主界面右上方的<span><img src="image/close1.png"></span>可立即退出。</li></ul>
+</li></ul>
+</div>
+
+</div>
+
+</div>
+
+<div>
+<div class="familylinks">
+<div class="parentlink"><strong>父主题：</strong> <a href="../hlp/TEDesktop_concept_00000-zh.html" title="欢迎使用TE Desktop（Telepresence Endpoint）在线帮助，请根据下面的目录链接访问相关主题。">TE Desktop在线帮助</a></div>
+</div>
+</div>
+
+<div class="hrcopyright"><hr size="2"></div><div class="hwcopyright">华为专有和保密信息</div><div class="hwcopyright">版权所有 &copy; 华为技术有限公司</div></body>
+</html>

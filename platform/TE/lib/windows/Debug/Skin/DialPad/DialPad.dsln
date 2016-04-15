@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="DialPad" Author="" Company="" CreateDate="" Path="E:\song\directUI\working\ThemesNew\Themes\songhuamei\DialPad\DialPad.dsln"/>
+	<Dui>
+		<Guid77792DF722F841B2ABFBBCF249304337 DuiName="DialPad" DuiPath="E:\song\directUI\working\ThemesNew\Themes\songhuamei\DialPad\DialPad.dui">
+			<Guid2FC4E11EA8EE46F7A3823083CC770EB0 SknName="DialPad" SknPath="E:\song\directUI\working\ThemesNew\Themes\songhuamei\DialPad\DialPad.skn" Theme=""/>
+		</Guid77792DF722F841B2ABFBBCF249304337>
+	</Dui>
+</DirectUI>
+

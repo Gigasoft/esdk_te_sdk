@@ -1,0 +1,60 @@
+<IMAGEPATHMAP>
+	<IMAGE name="K_digi_btnClose_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="K_digi_btnClose_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="animate">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\animate.PNG"/>
+	</IMAGE>
+	<IMAGE name="app_fresh">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\刷新.png"/>
+	</IMAGE>
+	<IMAGE name="blugroundbg">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\bg.png"/>
+	</IMAGE>
+	<IMAGE name="btn_com">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\00全局切图\btn_default.png"/>
+	</IMAGE>
+	<IMAGE name="comb_checked">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\combchecked.PNG"/>
+	</IMAGE>
+	<IMAGE name="comb_uncheck">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\combunchecked.PNG"/>
+	</IMAGE>
+	<IMAGE name="item_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\setting_tab focus.png"/>
+	</IMAGE>
+	<IMAGE name="pipswitch_checked">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\pipShow.PNG"/>
+	</IMAGE>
+	<IMAGE name="pipswitch_uncheck">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\pipHide.PNG"/>
+	</IMAGE>
+	<IMAGE name="secondDial">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\secondDial.PNG"/>
+	</IMAGE>
+	<IMAGE name="sel_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\logo2bg.png"/>
+	</IMAGE>
+	<IMAGE name="switch2main_checked">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\swith2main2.PNG"/>
+	</IMAGE>
+	<IMAGE name="switch2main_unchecked">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\swith2main1.PNG"/>
+	</IMAGE>
+	<IMAGE name="titlebg">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\02设置\切图\frm_topBar_bg.png"/>
+	</IMAGE>
+	<IMAGE name="video2audio">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\video2audio.PNG"/>
+	</IMAGE>
+	<IMAGE name="white_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\AllPOPWIN_BG.png"/>
+	</IMAGE>
+	<IMAGE name="whitetoallybg">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\01联系人\切图\mainframe\bg_app.png"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

@@ -1,0 +1,20 @@
+[OPTIONS]
+Compiled file=TEDesktop-zh.chm
+Contents file=TEDesktop-zh.hhc
+Default Window=hwwindow
+Full-text search=Yes
+Display compile progress=No
+Index file=TEDesktop-zh.hhk
+Binary Index=No
+Language=0x0804 Chinese (CHINA)
+Default topic=hlp/TEDesktop_concept_00000-zh.html
+Title=TE Desktop‘⁄œﬂ∞Ô÷˙
+
+[WINDOWS]
+hwwindow=,"TEDesktop-zh.hhc","TEDesktop-zh.hhk","hlp/TEDesktop_concept_00000-zh.html","hlp/TEDesktop_concept_00000-zh.html",,,,,0x62520,200,0x300E,[50,10,550,470],0xB0000,,,,,,0
+
+[INFOTYPES]
+
+[FILES]
+public_sys-resources\icon-arrowdn.gif
+public_sys-resources\icon-arrowrt.gif

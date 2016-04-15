@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="IM" Author="" Company="" CreateDate="" Path="E:\song\directUI\working\ThemesNew\Themes\songhuamei\IM\IM.dsln"/>
+	<Dui>
+		<GuidC3747AB6FB2041F9A3CC2F0131198792 DuiName="IM" DuiPath="E:\song\directUI\working\ThemesNew\Themes\songhuamei\IM\IM.dui">
+			<GuidB03271B590EE41F9958135F4A776973A SknName="IM" SknPath="E:\song\directUI\working\ThemesNew\Themes\songhuamei\IM\IM.skn" Theme=""/>
+		</GuidC3747AB6FB2041F9A3CC2F0131198792>
+	</Dui>
+</DirectUI>
+

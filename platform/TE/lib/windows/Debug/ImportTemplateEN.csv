@@ -1,0 +1,6 @@
+Group,Name,Number,Email,Address,Description,Department,MobilePhone,OfficePhone,DN,Type,NickName
+"Attention:
+1.Labels, name is a required field;
+2.Fill in the DN, Type is not recommended;
+3.The maximum number of local contacts is one thousand, exceeding this limit will import fails;4.Imported files can not be encrypted in any way;5.The following is recorded as an example;6.In practical import, delete this line;"
+TestGroup,Jack,6007,jack@huawei.com,china,,TE For MAC,10072007,6007,,,Dear

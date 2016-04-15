@@ -1,0 +1,508 @@
+<IMAGEPATHMAP>
+	<IMAGE name="AllPOPWIN_BGbg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\bg.png"/>
+	</IMAGE>
+	<IMAGE name="BTN_COM_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\btn_default.png"/>
+	</IMAGE>
+	<IMAGE name="BtnClosePOP_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="CapslockBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\daxiesuobg.png"/>
+	</IMAGE>
+	<IMAGE name="CapslockWarnstc">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\弹出框\inf.png"/>
+	</IMAGE>
+	<IMAGE name="CheckNox_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\Setting_chk_icon.png"/>
+	</IMAGE>
+	<IMAGE name="CommonTabBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\NetWork_TabPage_bg.png"/>
+	</IMAGE>
+	<IMAGE name="Edit_Ctrl_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\切图第4波\切图第4波\Edit_Ctrl_bg.png"/>
+	</IMAGE>
+	<IMAGE name="INPUT_EDITCTRL_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\INPUT_EDITCTRL_bg-.png"/>
+	</IMAGE>
+	<IMAGE name="Input">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\input_normal.png"/>
+	</IMAGE>
+	<IMAGE name="LockedBg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\bg.png"/>
+	</IMAGE>
+	<IMAGE name="LoginNew">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\login_bg.png"/>
+	</IMAGE>
+	<IMAGE name="ProgressBar_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_bg_jindutiao.png"/>
+	</IMAGE>
+	<IMAGE name="Progressbar_font">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\jindutiao.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_BG">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\RK_Pop_BG菜单背景.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_BG_LeftBarbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\RK_POP_LeftGrayBar.png"/>
+	</IMAGE>
+	<IMAGE name="Setting_tab_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\tab_selected_blue.png"/>
+	</IMAGE>
+	<IMAGE name="ShortcutDui_frmBg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="aaaaaaaaaaaaaaaaaa">
+		<IMAGEPATH colorcase="default" path="C:\Users\s00179935.CHINA\Desktop\勇进\勇进\bg.png"/>
+	</IMAGE>
+	<IMAGE name="abcdefg">
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_contact_card_ro11.spp"/>
+	</IMAGE>
+	<IMAGE name="animation222222222">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\动画\logo_anim.spp"/>
+	</IMAGE>
+	<IMAGE name="asasasasas">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-5-28-1\Col 1\col1_BG.png"/>
+	</IMAGE>
+	<IMAGE name="bg1447_97%">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="bg4444_97%">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框44444_97%.png"/>
+	</IMAGE>
+	<IMAGE name="black_PopWin_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\弹窗小圆角.png"/>
+	</IMAGE>
+	<IMAGE name="btn1">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\button\1.png"/>
+	</IMAGE>
+	<IMAGE name="btn2">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\button\2.png"/>
+	</IMAGE>
+	<IMAGE name="btnMin">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\L_login\tanchuang_guanbi.png"/>
+	</IMAGE>
+	<IMAGE name="btn_UDP_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\xiala.png"/>
+	</IMAGE>
+	<IMAGE name="btn_login_help">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\help_icon.png"/>
+	</IMAGE>
+	<IMAGE name="button_bg.spp">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\登陆\登录按键.png"/>
+	</IMAGE>
+	<IMAGE name="checkbox.spp">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\按钮\Guo-弹窗.png"/>
+	</IMAGE>
+	<IMAGE name="checkbox1">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\tick_.png"/>
+	</IMAGE>
+	<IMAGE name="checkbox2">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2\切图汇总\IM的切图\Col 2\check2.png"/>
+	</IMAGE>
+	<IMAGE name="checkbox_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\627 2\G_select_sanjiaopng.png"/>
+	</IMAGE>
+	<IMAGE name="close.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="close3.spp">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\icon-close-WF.png"/>
+	</IMAGE>
+	<IMAGE name="col1_contact_card.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col1_contact_card.png"/>
+	</IMAGE>
+	<IMAGE name="col1_conversastion_card_dial.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\contack_dial_bg.png"/>
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\contack_dial_bg.spp"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_add.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col1_nav_icon_add.png"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_contact.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col1_nav_icon_contact.png"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_dail.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col1_nav_icon_dail.png"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_dashbord.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col1_nav_icon_dashbord.png"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_fav.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col1_nav_icon_fav.png"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_meetting.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col1_nav_icon_meetting.png"/>
+	</IMAGE>
+	<IMAGE name="col1_scrollbar.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 3\scroll.png"/>
+	</IMAGE>
+	<IMAGE name="combox_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\627 2\G_select_sanjiaopng.png"/>
+	</IMAGE>
+	<IMAGE name="combox_normal">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\628切图\G_select_bg.png"/>
+	</IMAGE>
+	<IMAGE name="contentMainBottomPopMenuBg.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_bottom_menu\conversation_bottom_menu_bg.png"/>
+	</IMAGE>
+	<IMAGE name="cutline2px">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\png\line.png"/>
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\2012-5-29-2\Col 1\abc.png"/>
+	</IMAGE>
+	<IMAGE name="displayChatinfo_splitline_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\display_chatinfo_splitline.png"/>
+	</IMAGE>
+	<IMAGE name="editInputBlack_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹窗—输入框_212121(3).png"/>
+	</IMAGE>
+	<IMAGE name="editInputBlack_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹窗—输入框_212121(3).png"/>
+	</IMAGE>
+	<IMAGE name="editctrl_click_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\input_click.png"/>
+	</IMAGE>
+	<IMAGE name="fax_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\fax.png"/>
+	</IMAGE>
+	<IMAGE name="group_portrait_img">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-5-29-2\Avator1\Avator_22_13.png"/>
+	</IMAGE>
+	<IMAGE name="im_attachmentform_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\attachment_bg.png"/>
+	</IMAGE>
+	<IMAGE name="im_attachmentform_doctype_doc">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\doc.png"/>
+	</IMAGE>
+	<IMAGE name="im_attachmentform_doctype_png">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\png.png"/>
+	</IMAGE>
+	<IMAGE name="im_attachmentform_doctype_ppt">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\ppt.png"/>
+	</IMAGE>
+	<IMAGE name="im_attachmentform_doctype_xls">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\xls.png"/>
+	</IMAGE>
+	<IMAGE name="im_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\im_bg.png"/>
+	</IMAGE>
+	<IMAGE name="im_bottom_enter">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\col2_button_sent_44x20.png"/>
+	</IMAGE>
+	<IMAGE name="im_fonttoolbar_bold_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\fanlinlin\GIM col2\bold_icon.png"/>
+	</IMAGE>
+	<IMAGE name="im_fonttoolbar_color_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\fanlinlin\GIM col2\color_icon.png"/>
+	</IMAGE>
+	<IMAGE name="im_fonttoolbar_italic_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\fanlinlin\GIM col2\italic_icon.png"/>
+	</IMAGE>
+	<IMAGE name="im_fonttoolbar_underline_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\fanlinlin\GIM col2\underline_icon.png"/>
+	</IMAGE>
+	<IMAGE name="im_groupnames_edit">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\fanlinlin\GIM col2\button_con.png"/>
+	</IMAGE>
+	<IMAGE name="im_groupnames_form_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\im_groupnames_form_bg.png"/>
+	</IMAGE>
+	<IMAGE name="im_groupnames_nameform_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\im_groupnames_name_bg.png"/>
+	</IMAGE>
+	<IMAGE name="im_groupnames_onlinestatus">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\stau.png"/>
+	</IMAGE>
+	<IMAGE name="im_quick_reply_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\col2_icon_quickreply.png"/>
+	</IMAGE>
+	<IMAGE name="im_sendInfoPopwin_close">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\im_top_close.png"/>
+	</IMAGE>
+	<IMAGE name="im_sms_icon">
+		<IMAGEPATH colorcase="default" path="C:\Users\s00179935.CHINA\Desktop\G_xinxiang.png"/>
+	</IMAGE>
+	<IMAGE name="im_sms_toolbar_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2\切图汇总\IM的切图\Col 2\col2_toolbar_chat_wide.png"/>
+	</IMAGE>
+	<IMAGE name="im_smstoolbar_signature">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\fanlinlin\GIM col2\signature_input_bg.png"/>
+	</IMAGE>
+	<IMAGE name="im_splitline">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\626_2\D\horizontal_splitline.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_addperson_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\col2_toolbar_icon_add.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\im_toolbar_chat.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_dial_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\col2_toolbar_icon_dail.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_emotion_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\col2_toolbar_icon_emotion.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_font_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-5-29\col2 spp\col2_toolbar_icon_font.spp"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_more_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-5-29\Col 2\Col 2\col2_toolbar_icon_more.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_sms_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-5-29\col2 spp\col2_toolbar_icon_sms.spp"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_splitline">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\im_toolbar_splitline.png"/>
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\im_toolbar_splitline.spp"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_video_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\col2_toolbar_icon_video.png"/>
+	</IMAGE>
+	<IMAGE name="im_top_attachent_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\attachment_icon.png"/>
+	</IMAGE>
+	<IMAGE name="im_top_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\Col 2\col2_title.png"/>
+	</IMAGE>
+	<IMAGE name="im_top_closebtn">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\im_top_close.png"/>
+	</IMAGE>
+	<IMAGE name="im_top_groupedit_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\groupedit_icon.png"/>
+	</IMAGE>
+	<IMAGE name="im_top_markedbtn_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\markedbtn_icon.png"/>
+	</IMAGE>
+	<IMAGE name="im_top_ssbtn">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\icon_right_2.png"/>
+	</IMAGE>
+	<IMAGE name="inputCloseBtn.spp">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="listitem_bg_hover">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\popWin的切图\listviewItem_bg_selected.png"/>
+	</IMAGE>
+	<IMAGE name="listitem_bg_normal">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\popWin的切图\listviewItem_bg_normal.png"/>
+	</IMAGE>
+	<IMAGE name="loginBtn_focus">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\L_login\L_xuxian.png"/>
+	</IMAGE>
+	<IMAGE name="loginEditIpuut_hot_bg">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\E_group\E_输入框_24.png"/>
+	</IMAGE>
+	<IMAGE name="loginInput">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\png\输入框.png"/>
+	</IMAGE>
+	<IMAGE name="login_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="login_button_bg_click">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\login_btn_click.png"/>
+	</IMAGE>
+	<IMAGE name="login_button_bg_nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\login_btn_normal.png"/>
+	</IMAGE>
+	<IMAGE name="login_check_hight_high">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\登陆\切图第3波\切图第3波\登录勾选.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\guo-hui.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\L_login\guo.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk_check">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\chose_click.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk_check_disable">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\登陆\登录勾选.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk_check_high_pres">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\登陆\切图第3波\切图第3波\登录勾选.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk_disable">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\L_login\guo-hui.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk_disable1">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\uncheck_disable.bmp"/>
+	</IMAGE>
+	<IMAGE name="login_chk_hight_pres">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\登陆\切图第3波\切图第3波\登录勾选.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk_nor">
+		<IMAGEPATH colorcase="default" path="D:\z00220320\智真PC端登陆界面\切图\1.png"/>
+	</IMAGE>
+	<IMAGE name="login_chk_uncheck">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\chose_normal.png"/>
+	</IMAGE>
+	<IMAGE name="login_logo_anim">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\动画\logo_anim_1.png"/>
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\动画\logo_anim.png"/>
+	</IMAGE>
+	<IMAGE name="login_logo_anim2">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\登陆\login_logo_anim2_01.png"/>
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\动画\logo_anim.png"/>
+	</IMAGE>
+	<IMAGE name="loginxiala">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\登录三角.png"/>
+	</IMAGE>
+	<IMAGE name="logo_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\login_logo.png"/>
+	</IMAGE>
+	<IMAGE name="mainNav_logo">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\left-t.png"/>
+	</IMAGE>
+	<IMAGE name="main_bottom_menu_carddisplay">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col_icon_1.png"/>
+	</IMAGE>
+	<IMAGE name="main_bottom_menu_displayselectbtn_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col_icon_bg_1.png"/>
+	</IMAGE>
+	<IMAGE name="main_bottom_menu_displayselectbtn_bg_normal">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col_icon_bg_2.png"/>
+	</IMAGE>
+	<IMAGE name="main_bottom_menu_history_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_bottom_menu\col_icon_clock.png"/>
+	</IMAGE>
+	<IMAGE name="main_bottom_menu_listdisplay">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col_icon_2.png"/>
+	</IMAGE>
+	<IMAGE name="main_bottom_menu_select_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\png\huadong.png"/>
+	</IMAGE>
+	<IMAGE name="main_conversation_card_dial_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_contact_card_ro11.png"/>
+	</IMAGE>
+	<IMAGE name="main_conversation_title_bg.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\col1_title_bar.png"/>
+	</IMAGE>
+	<IMAGE name="main_search_left_btn.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\icon_search.png"/>
+	</IMAGE>
+	<IMAGE name="main_search_right_btn.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 1\icon_search_03.png"/>
+	</IMAGE>
+	<IMAGE name="messageAdd.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_bottom_menu\conversation_bottom_menu_add.png"/>
+	</IMAGE>
+	<IMAGE name="mobileTelephone">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_contact_card_ro11.spp"/>
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_contact_card_ro11.spp"/>
+	</IMAGE>
+	<IMAGE name="name_list_del_btn_click">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\delete_click.png"/>
+	</IMAGE>
+	<IMAGE name="name_list_del_btn_nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\delete_normal.png"/>
+	</IMAGE>
+	<IMAGE name="namelist_hot_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00292094\Desktop\test.png"/>
+	</IMAGE>
+	<IMAGE name="namelistviewBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\登陆\black_PopWin_NoShadow_bg.png"/>
+	</IMAGE>
+	<IMAGE name="newBtn_All_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有按钮图片统一\button-bg.png"/>
+	</IMAGE>
+	<IMAGE name="newPopWinBg">
+		<IMAGEPATH colorcase="default" path="D:\temp\临时切图\去阴影\wf\col3-pop_gray247.png"/>
+	</IMAGE>
+	<IMAGE name="newPopWin_Top_Bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\frmTopTitleBg_bg.png"/>
+	</IMAGE>
+	<IMAGE name="onlineStatus_icon_7_7_group">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\fanlinlin\状态图标\stua7X7_7.png"/>
+	</IMAGE>
+	<IMAGE name="online_status_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总\切图汇总\IM的切图\Col 1\stua7X7.png"/>
+	</IMAGE>
+	<IMAGE name="popWinBg.spp">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="popWinBg4444">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\popWinBG4444.spp"/>
+	</IMAGE>
+	<IMAGE name="popWinCommon.spp">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="popWin_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login-xiala_bg.png"/>
+	</IMAGE>
+	<IMAGE name="popwin_bg_4_4_4_4">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\popWinBG4444.png"/>
+	</IMAGE>
+	<IMAGE name="portrait_border_img">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-5-29-2\Avator1\Avator_box_26.png"/>
+	</IMAGE>
+	<IMAGE name="putin_bg.png">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\input_normal.png"/>
+	</IMAGE>
+	<IMAGE name="putin_xiala.spp">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\L_login\L_login_putin_xiala.png"/>
+	</IMAGE>
+	<IMAGE name="rdx_disable">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\rdx.png"/>
+	</IMAGE>
+	<IMAGE name="search_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2\切图汇总\IM的切图\Col 2\search-bg.png"/>
+	</IMAGE>
+	<IMAGE name="search_btn">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2\切图汇总\IM的切图\Col 2\icon_search.png"/>
+	</IMAGE>
+	<IMAGE name="select_btn_click">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\up_btn_click.png"/>
+	</IMAGE>
+	<IMAGE name="select_btn_normal">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\up_btn_normal.png"/>
+	</IMAGE>
+	<IMAGE name="serverConfiguration">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\main 2012-5-26\new Image\bg(服务器配置).spp"/>
+	</IMAGE>
+	<IMAGE name="setting.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\steeing_icon.png"/>
+	</IMAGE>
+	<IMAGE name="slider_bg">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\png\huadong.png"/>
+	</IMAGE>
+	<IMAGE name="small.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Min_bg.png"/>
+	</IMAGE>
+	<IMAGE name="ssssssssssssssssssssssssssssssss">
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_contact_card_ro11.spp"/>
+	</IMAGE>
+	<IMAGE name="status7">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\status7.spp"/>
+		<IMAGEPATH colorcase="red" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\status7.spp"/>
+	</IMAGE>
+	<IMAGE name="statusList_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\数据会议纯黑色.png"/>
+	</IMAGE>
+	<IMAGE name="stcAboutEspace">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\A__all_espace.png"/>
+	</IMAGE>
+	<IMAGE name="stcHuaweiProvide">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\A__huawei.png"/>
+	</IMAGE>
+	<IMAGE name="telephone_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\telephone.png"/>
+	</IMAGE>
+	<IMAGE name="video_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\video.png"/>
+	</IMAGE>
+	<IMAGE name="waitAnim.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\flash.png"/>
+	</IMAGE>
+	<IMAGE name="whitelogo_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图及标注\切图标注\A-HOME MASTER IM\Mark\Col 2\logo_white.png"/>
+	</IMAGE>
+	<IMAGE name="xiala.spp">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\切图\703补充切图\xiala8.png"/>
+	</IMAGE>
+	<IMAGE name="zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\2012-6-5\col1_contact_card_ro11.spp"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

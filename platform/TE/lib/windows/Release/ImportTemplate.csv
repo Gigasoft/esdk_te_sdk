@@ -1,0 +1,9 @@
+Group,Name,Number,Email,Address,Description,Department,MobilePhone,OfficePhone,DN,Type,NickName
+"注意：
+1.所属组、姓名为必填字段；
+2.不建议用户填写DN,Type字段；
+3.本地联系人最大数量为1千条，超过此上限将导入失败；
+4.导入文件不能以任何形式加密；
+5.以下记录为举例说明；
+6.请在实际导入时将本行删除；"
+TestGroup,Jack,6007,jack@huawei.com,china,,TE For MAC,10072007,6007,,,Dear

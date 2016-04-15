@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="Contacts" Author="" Company="" CreateDate="" Path="E:\song\directUI\working\ThemesNew\Themes\songhuamei\Contacts\Contacts.dsln"/>
+	<Dui>
+		<GuidC0C89E2AAA4C415A9AEB3BEDD509537D DuiName="Contacts" DuiPath="E:\song\directUI\working\ThemesNew\Themes\songhuamei\Contacts\Contacts.dui">
+			<GuidF5A8D932F0ED4A32B6B5DCE084ECC5B1 SknName="Contacts" SknPath="E:\song\directUI\working\ThemesNew\Themes\songhuamei\Contacts\Contacts.skn" Theme=""/>
+		</GuidC0C89E2AAA4C415A9AEB3BEDD509537D>
+	</Dui>
+</DirectUI>
+

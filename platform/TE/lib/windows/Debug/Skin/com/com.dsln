@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="com" Author="" Company="" CreateDate="" Path="C:\Users\h00223595\Desktop\huiyikapian\com.dsln"/>
+	<Dui>
+		<GuidF703D4FB9EC9483ABB48C2C27E38BE5C DuiName="com" DuiPath="C:\Users\h00223595\Desktop\huiyikapian\com.dui">
+			<GuidC9E4648180744C98811A2F6C9D7A9E68 SknName="com" SknPath="C:\Users\h00223595\Desktop\huiyikapian\com.skn" Theme=""/>
+		</GuidF703D4FB9EC9483ABB48C2C27E38BE5C>
+	</Dui>
+</DirectUI>
+

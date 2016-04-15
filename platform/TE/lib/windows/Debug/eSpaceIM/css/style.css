@@ -1,0 +1,623 @@
+﻿html{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding: 0px;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+    font-size: 12px;
+    font-family: 微软雅黑, arial, sans-serif;
+	background-color:#ffffff;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+	overflow-x: hidden;
+    overflow-y: auto;
+}
+
+div, p, input{
+    margin: 0px;
+    padding: 0px;
+    border: 0 none;
+}
+
+input{
+    font-size: 12px;
+}
+
+#im-container{
+    position: relative;
+}
+
+.button{
+    width: 85px;
+    height: 25px;
+}
+
+.button-normal{
+    background: url(../images/btn-normal.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src=../images/btn-normal.png ) ;
+    _background: url() ;
+}
+
+.button-hover{
+    background: url(../images/btn-hover.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src=../images/btn-hover.png ) ;
+    _background: url() ;
+}
+
+.button-press{
+    background: url(../images/btn-press.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src=../images/btn-press.png ) ;
+    _background: url() ;
+}
+
+.button-xl-normal{
+    width: 100px;
+    height: 26px;
+    background: url(../images/btn-xl-normal.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src=../images/btn-xl-normal.png ) ;
+    _background: url() ;
+}
+
+.progressbar{
+    display: inline-block;
+    width: 82px;
+    height: 15px;
+    background: url(../images/progressbar-bg.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/progressbar-bg.png ) ;
+    _background: url() ;
+    position: relative;
+    *zoom: 1;
+    *display: inline;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.progressbar-c-l{
+    position: absolute;
+    width: 5px;
+    height: 10px;
+    top: 4px;
+    left: 0px;
+    background: url(../images/progressbar-c-l.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/progressbar-c-l.png ) ;
+    _background: url() ;
+}
+
+.progressbar-c-m{
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    width: 0px;
+    height: 10px;
+    background: url(../images/progressbar-c-m.png) ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src=../images/progressbar-c-m.png ) ;
+    _background: url() ;
+}
+
+.progressbar-c-r{
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    width: 10px;
+    height: 10px;
+    background: url(../images/progressbar-c-r.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/progressbar-c-r.png ) ;
+    _background: url() ;
+}
+
+.item{
+    word-wrap: break-word;
+    position: relative;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 4px;
+}
+
+.item-title{
+    padding-top: 0px;
+    padding-bottom: 4px;
+}
+
+font .item-title{
+    font-size: inherit;
+    color: inherit ;
+}
+
+.item-body{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.load-more{
+    position: absolute;
+    height: 25px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.load-more-text{
+    color: #56B3D7;
+    margin-left: auto;
+    margin-right: auto;
+    background: url(../images/load-more.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/load-more.png ) ;
+    _background: url() ;
+    cursor: pointer;
+    padding-left: 20px;
+    *zoom: 1;
+    width: 100px;
+    display: block;
+    margin-top: 5px;
+}
+
+.item-body-system{
+    border: 1px solid #C2CBD2;
+    background-color: #F4FAFF;
+    padding: 10px 10px 11px 12px;
+}
+
+.item-body-record{
+    white-space: nowrap;
+}
+
+.item-system{
+}
+
+.msg-error{
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    width: 16px;
+    height: 16px;
+    margin-top: -8px;
+}
+
+font .msg-error{
+	display: none;
+}
+
+.msg-error-normal{
+    cursor: pointer;
+    background: url(../images/msg-error-normal.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/msg-error-normal.png ) ;
+    _background: url() ;
+}
+
+.sms-state{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 21px;
+    height: 21px;
+}
+
+.sms-success{
+    width: 21px;
+    height: 21px;
+    background: url(../images/sms-success.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/sms-success.png ) ;
+    _background: url() ;
+}
+
+.sms-read{
+    width: 21px;
+    height: 21px;
+    background: url(../images/sms-read.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/sms-read.png ) ;
+    _background: url() ;
+}
+
+.sms-error{
+    width: 21px;
+    height: 21px;
+    background: url(../images/sms-error.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/sms-error.png ) ;
+    _background: url() ;
+}
+
+.sms{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.sms-content{
+    padding-left: 30px;
+    padding-right: 21px;
+    display: block;
+	font-size: 15px;
+    font-family: 微软雅黑, arial, sans-serif;
+}
+
+.im-content{
+    color: #333333;
+}
+
+.im-title-sender{
+    color: #3072B9 ;
+}
+
+.im-title-receiver{
+    color: #428D5E;
+}
+
+.im-show-context{
+    position: absolute;
+    top: -20px;
+    right: 5px;
+    cursor: pointer;
+    color: #56B3D7;
+}
+
+.im-time{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: block;
+	
+}
+.im-content .im-time{
+    position: relative;
+	display: inline;
+	top: auto;
+	right: auto;
+}
+
+.keyword{
+    background: yellow;
+}
+
+.item-body-file{
+    border: 1px solid #C2CBD2;
+    background-color: #F4FAFF;
+    padding: 10px;
+}
+
+.preview-img{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+}
+
+.file-name{
+    display: block;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.file-state-text{
+    padding-left: 50px;
+}
+
+.file-stop{
+    top: 50%;
+    margin-top: -8px;
+    position: absolute;
+    right: 5px;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+font .file-stop{
+    display: none;
+}
+
+.file-stop-normal{
+    background: url(../images/close-normal.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/close-normal.png ) ;
+    _background: url() ;
+}
+
+.receive-wait-buttons, .receive-success-buttons{
+    margin-top: 5px;
+}
+
+font  .receive-wait-buttons, font .receive-success-buttons{
+	width: 0px;
+	height: 0px;
+	overflow: hidden;
+}
+
+.button-accept, .button-save, .button-file-open{
+    margin-right: 10px;
+}
+
+.file-expire{
+    padding-top: 10px;
+    font-style: oblique ;
+}
+
+.item-body-call{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    white-space: nowrap;
+    border: 1px solid #C2CBD2;
+    background-color: #F4FAFF;
+}
+
+.call-text{
+    padding-left: 20px;
+    white-space: nowrap;
+    _display: block;
+}
+
+.call-missed-img, .call-answer-img, .call-dial-img{
+    _width: 16px;
+    _height: 16px;
+}
+
+
+.call-missed-img{
+    background: url(../images/call-missed.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/call-missed.png ) ;
+    _background: url() ;
+}
+
+
+.call-answered-img{
+    background: url(../images/call-answer.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/call-answer.png ) ;
+    _background: url() ;
+}
+
+
+.call-dialed-img{
+    background: url(../images/call-dial.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/call-dial.png ) ;
+    _background: url() ;
+}
+
+
+.meeting-notify-text{
+	display:block;
+}
+
+.meeting-attendee{
+    color: #428D5E;
+}
+
+
+.record-text{
+    overflow: hidden;
+    text-overflow: ellipsis ;
+}
+
+.record-path{
+    text-decoration: underline;
+    color: blue ;
+    display: block;
+}
+
+.item-state-sms-sending .sms-state{
+    background: url(../images/sms-sending.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/sms-sending.png ) ;
+    _background: url() ;
+}
+
+
+.item-state-sms-success .sms-state{
+    background: url(../images/sms-success.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/sms-success.png ) ;
+    _background: url() ;
+}
+
+
+.item-state-sms-read .sms-state{
+    background: url(../images/sms-read.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/sms-read.png ) ;
+    _background: url() ;
+}
+
+
+.item-state-sms-error .sms-state{
+    background: url(../images/sms-error.png) no-repeat ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/sms-error.png ) ;
+    _background: url() ;
+}
+
+
+.item-state-sms-receive .sms-state{
+    background: url(../images/sms-receive.png) no-repeat ;
+    filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src=../images/sms-receive.png ) ;
+    _background: url() ;
+    top: -3px;
+}
+
+.item-state-sms-sending .msg-error,
+.item-state-sms-success .msg-error,
+.item-state-sms-read .msg-error,
+.item-state-sms-receive .msg-error
+{
+    display: none;
+}
+
+.item-state-file-send-wait .progressbar,
+.item-state-file-send-wait .file-speed,
+.item-state-file-send-wait .msg-error{
+    display: none;
+}
+
+
+.item-state-file-send-reject .progressbar,
+.item-state-file-send-reject .file-speed,
+.item-state-file-send-reject .msg-error,
+.item-state-file-send-reject .file-stop
+{
+    display: none;
+}
+
+
+.item-state-file-send-cancel .progressbar,
+.item-state-file-send-cancel .file-speed,
+.item-state-file-send-cancel .file-stop
+{
+    display: none;
+}
+
+
+.item-state-file-send-sender-stop .progressbar,
+.item-state-file-send-sender-stop .file-speed,
+.item-state-file-send-sender-stop .file-stop
+{
+    display: none;
+}
+
+
+.item-state-file-send-receiver-stop .progressbar,
+.item-state-file-send-receiver-stop .file-speed,
+.item-state-file-send-receiver-stop .file-stop,
+.item-state-file-send-receiver-stop .msg-error
+{
+    display: none;
+}
+
+
+
+.item-state-file-send-progress .msg-error
+{
+    display: none;
+}
+
+
+.item-state-file-send-success .progressbar,
+.item-state-file-send-success .file-speed,
+.item-state-file-send-success .msg-error,
+.item-state-file-send-success .file-stop
+{
+    display: none;
+}
+
+
+.item-state-file-send-error .progressbar,
+.item-state-file-send-error .file-speed,
+.item-state-file-send-error .file-stop
+{
+    display: none;
+}
+
+
+.item-state-file-space-not-enough .progressbar,
+.item-state-file-space-not-enough .file-speed,
+.item-state-file-space-not-enough .file-stop,
+.item-state-file-space-not-enough .msg-error
+{
+    display: none;
+}
+
+
+.item-state-file-send-too-large .progressbar,
+.item-state-file-send-too-large .file-speed,
+.item-state-file-send-too-large .file-stop
+{
+    display: none;
+}
+
+.item-state-file-receive-wait .progressbar,
+.item-state-file-receive-wait .file-speed,
+.item-state-file-receive-wait .msg-error,
+.item-state-file-receive-wait .file-stop,
+.item-state-file-receive-wait .receive-success-buttons
+{
+    display: none;
+}
+
+.item-state-file-receive-reject .progressbar,
+.item-state-file-receive-reject .file-speed,
+.item-state-file-receive-reject .msg-error,
+.item-state-file-receive-reject .file-stop,
+.item-state-file-receive-reject .receive-wait-buttons,
+.item-state-file-receive-reject .receive-success-buttons,
+.item-state-file-receive-reject .file-expire
+{
+    display: none;
+}
+
+
+.item-state-file-receive-sender-stop .progressbar,
+.item-state-file-receive-sender-stop .file-speed,
+.item-state-file-receive-sender-stop .msg-error,
+.item-state-file-receive-sender-stop .file-stop,
+.item-state-file-receive-sender-stop .receive-wait-buttons,
+.item-state-file-receive-sender-stop .receive-success-buttons,
+.item-state-file-receive-sender-stop .file-expire
+{
+    display: none;
+}
+
+
+.item-state-file-receive-receiver-stop .progressbar,
+.item-state-file-receive-receiver-stop .file-speed,
+.item-state-file-receive-receiver-stop .msg-error,
+.item-state-file-receive-receiver-stop .file-stop,
+.item-state-file-receive-receiver-stop .receive-wait-buttons,
+.item-state-file-receive-receiver-stop .receive-success-buttons,
+.item-state-file-receive-receiver-stop .file-expire
+{
+    display: none;
+}
+
+
+.item-state-file-receive-cancel .progressbar,
+.item-state-file-receive-cancel .file-speed,
+.item-state-file-receive-cancel .msg-error,
+.item-state-file-receive-cancel .file-stop,
+.item-state-file-receive-cancel .receive-wait-buttons,
+.item-state-file-receive-cancel .receive-success-buttons,
+.item-state-file-receive-cancel .file-expire
+{
+    display: none;
+}
+
+
+
+.item-state-file-receive-error .progressbar,
+.item-state-file-receive-error .file-speed,
+.item-state-file-receive-error .msg-error,
+.item-state-file-receive-error .file-stop,
+.item-state-file-receive-error .receive-wait-buttons,
+.item-state-file-receive-error .receive-success-buttons,
+.item-state-file-receive-error .file-expire
+{
+    display: none;
+}
+
+
+.item-state-file-receive-progress .msg-error,
+.item-state-file-receive-progress .receive-wait-buttons,
+.item-state-file-receive-progress .receive-success-buttons,
+.item-state-file-receive-progress .file-expire
+{
+    display: none;
+}
+
+
+.item-state-file-receive-success .progressbar,
+.item-state-file-receive-success .file-speed,
+.item-state-file-receive-success .msg-error,
+.item-state-file-receive-success .file-stop,
+.item-state-file-receive-success .receive-wait-buttons,
+.item-state-file-receive-success .file-expire
+{
+    display: none;
+}
+
+
+.item-state-file-receive-not-exist .progressbar,
+.item-state-file-receive-not-exist .file-speed,
+.item-state-file-receive-not-exist .file-stop,
+.item-state-file-receive-not-exist .msg-error,
+.item-state-file-receive-not-exist .receive-wait-buttons,
+.item-state-file-receive-not-exist .file-expire,
+.item-state-file-receive-not-exist .receive-success-buttons
+{
+    display: none;
+}

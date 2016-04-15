@@ -1,0 +1,27 @@
+/*Copyright 2015 Huawei Technologies Co., Ltd. All rights reserved.
+eSDK is licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.*/
+
+// stdafx.cpp : 只包括标准包含文件的源文件
+// TEService.pch 将作为预编译头
+// stdafx.obj 将包含预编译类型信息
+
+#include "stdafx.h"
+
+// TODO: 在 STDAFX.H 中
+// 引用任何所需的附加头文件，而不是在此文件中引用
+__declspec(dllexport) int __stdcall  init(void)
+{
+	return 0;
+}
+

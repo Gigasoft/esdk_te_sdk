@@ -1,0 +1,159 @@
+<IMAGEPATHMAP>
+	<IMAGE name="BG4444">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00216304\Desktop\BG4444"/>
+	</IMAGE>
+	<IMAGE name="BTN_COM_BG">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\830版本整改\所有按钮图片统一\button-bg.png"/>
+	</IMAGE>
+	<IMAGE name="CK_MaxWindow_Bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\btn_MinAndMax_WF.png"/>
+	</IMAGE>
+	<IMAGE name="EnterpriseContactLstvInfoBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00216304\Desktop\col3_pop.png"/>
+	</IMAGE>
+	<IMAGE name="ResultInfo_splitLineVert_bg">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\通用\splitline\dot_line.png"/>
+	</IMAGE>
+	<IMAGE name="blackPopWin_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\弹出提示框背景图\pop-bg-8-8.png"/>
+	</IMAGE>
+	<IMAGE name="btnChooseContact_bg">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\G_IM\button\G_IM_btn_daiding.png"/>
+	</IMAGE>
+	<IMAGE name="btnClearSearchContent_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="btnCloseWindow">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\icon-close-WF.png"/>
+	</IMAGE>
+	<IMAGE name="btnDoubleRightExpand_bg">
+		<IMAGEPATH colorcase="default" path="F:\V200R001C03IDEO-branches-BK\UCD设计\高保真\2013-5-17\z光大银行\Desktop\more.png"/>
+	</IMAGE>
+	<IMAGE name="btnGraphAdd_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\down.png"/>
+	</IMAGE>
+	<IMAGE name="btnGraphRemove_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\up.png"/>
+	</IMAGE>
+	<IMAGE name="btnMaxWindowBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\icon-MAX-WF.png"/>
+	</IMAGE>
+	<IMAGE name="btnMinWindowBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\icon-min-WF.png"/>
+	</IMAGE>
+	<IMAGE name="btnNormalWindow">
+		<IMAGEPATH colorcase="default" path="F:\V200R001C03IDEO-branches-BK\UCD设计\高保真\2013.5.10\Desktop\max1.png"/>
+	</IMAGE>
+	<IMAGE name="btn_addDel_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\zwx227609\Desktop\NewEnterprise\Enterprise_add_del.png"/>
+	</IMAGE>
+	<IMAGE name="btn_close_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Button_close.png"/>
+	</IMAGE>
+	<IMAGE name="btn_max_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Button_max.png"/>
+	</IMAGE>
+	<IMAGE name="btn_min_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\zWX227609\Desktop\imageMeetingDetail\Button_min.png"/>
+	</IMAGE>
+	<IMAGE name="btn_search_clear_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise_search_del.png"/>
+	</IMAGE>
+	<IMAGE name="chkLowerOrExpansion_Checked_bgs">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise_arrow.png"/>
+	</IMAGE>
+	<IMAGE name="chkLowerOrExpansion_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise_arrow.png"/>
+	</IMAGE>
+	<IMAGE name="chkLowerOrExpansion_bg_1">
+		<IMAGEPATH colorcase="default" path="F:\V200R001C03IDEO-branches-BK\UCD设计\高保真\2013-5-17\z光大银行\cl.png"/>
+	</IMAGE>
+	<IMAGE name="chkTempContactPhone_bg">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\R_system\R_system_guo.png"/>
+	</IMAGE>
+	<IMAGE name="frmBottomChooseContact_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\wfDIY\column3_bottom2.png"/>
+	</IMAGE>
+	<IMAGE name="frmBtns_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\4-26\frmBtns_bg.png"/>
+	</IMAGE>
+	<IMAGE name="frmEditBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise_search_bg.png"/>
+	</IMAGE>
+	<IMAGE name="frmGroupListBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\left_bg.png"/>
+	</IMAGE>
+	<IMAGE name="frmResultInfoBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\rigth_bg.png"/>
+	</IMAGE>
+	<IMAGE name="frmResultInfoTitle_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\frmTitle_bg.png"/>
+	</IMAGE>
+	<IMAGE name="frmTopTitleBg_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\wfDIY\frmSystemMenu_CHooseContact.png"/>
+	</IMAGE>
+	<IMAGE name="icon_search">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\A_all_main_search_left_btn2.png"/>
+	</IMAGE>
+	<IMAGE name="lstvFrmTitleColumnItem_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\ItemBg.png"/>
+	</IMAGE>
+	<IMAGE name="lstvResultInfo_item_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\listvItem.png"/>
+	</IMAGE>
+	<IMAGE name="lstvResultInfo_item_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\listvItem_hot.png"/>
+	</IMAGE>
+	<IMAGE name="lstvResultInfo_item_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\listvItem_press.png"/>
+	</IMAGE>
+	<IMAGE name="newBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise__bg.png"/>
+	</IMAGE>
+	<IMAGE name="newTitleBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise_top_bg.png"/>
+	</IMAGE>
+	<IMAGE name="new_btn_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise_button.png"/>
+	</IMAGE>
+	<IMAGE name="scrollbarHozResultInfo_bg">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\通用\scrollbar\scroll_HOZ.png"/>
+	</IMAGE>
+	<IMAGE name="scrollbarLstvResultInfo_bg">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\通用\scrollbar\scroll.png"/>
+	</IMAGE>
+	<IMAGE name="search_icon_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise_search_icon.png"/>
+	</IMAGE>
+	<IMAGE name="search_input_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00202215\Desktop\search_input_bg.png"/>
+	</IMAGE>
+	<IMAGE name="search_input_nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00225979\Desktop\Enterprise_search_input.png"/>
+	</IMAGE>
+	<IMAGE name="search{romptbg">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="splitbarHoz_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\splitHozbar_bg.png"/>
+	</IMAGE>
+	<IMAGE name="splitbarvert_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\splitLineVert.png"/>
+	</IMAGE>
+	<IMAGE name="stcContactWayIcon_bg">
+		<IMAGEPATH colorcase="default" path="D:\曾江珊切图\04-切图\L_login\L_loginl_small.png"/>
+	</IMAGE>
+	<IMAGE name="stcDoubleRightLabel_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\arrs.png"/>
+	</IMAGE>
+	<IMAGE name="stcSingleRightLabel_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\arr.png"/>
+	</IMAGE>
+	<IMAGE name="streeItemUnCheck_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\企业通讯录\jiantou.png"/>
+	</IMAGE>
+	<IMAGE name="streeItem_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\streeItem_Press.png"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

@@ -1,0 +1,39 @@
+[OPTIONS]
+Compiled file=TEDesktop-zh.chm
+Contents file=TEDesktop-zh.hhc
+Default Window=hwwindow
+Full-text search=Yes
+Display compile progress=No
+Index file=TEDesktop-zh.hhk
+Binary Index=No
+Language=0x0804 Chinese (CHINA)
+Default topic=hlp/TEDesktop_concept_00000-zh.html
+Title=TE Desktop‘⁄œﬂ∞Ô÷˙
+
+[WINDOWS]
+hwwindow=,"TEDesktop-zh.hhc","TEDesktop-zh.hhk","hlp/TEDesktop_concept_00000-zh.html","hlp/TEDesktop_concept_00000-zh.html",,,,,0x62520,200,0x300E,[50,10,550,470],0xB0000,,,,,,0
+
+[INFOTYPES]
+
+[FILES]
+hlp\TEDesktop_concept_00000-zh.html
+hlp\TEDesktop_xTask_00001-zh.html
+hlp\TEDesktop_xTask_00002-zh.html
+hlp\TEDesktop_xTask_00003-zh.html
+hlp\TEDesktop_xTask_00004-zh.html
+hlp\TEDesktop_xTask_00005-zh.html
+hlp\TEDesktop_xTask_00008-zh.html
+hlp\TEDesktop_xTask_00009-zh.html
+hlp\TEDesktop_xTask_00006-zh.html
+hlp\TEDesktop_xTask_00007-zh.html
+public_sys-resources\delta.gif
+public_sys-resources\deltaend.gif
+public_sys-resources\icon-arrowdn.gif
+public_sys-resources\icon-arrowrt.gif
+public_sys-resources\icon-caution.gif
+public_sys-resources\icon-danger.gif
+public_sys-resources\icon-huawei.gif
+public_sys-resources\icon-note.gif
+public_sys-resources\icon-notice.gif
+public_sys-resources\icon-tip.gif
+public_sys-resources\icon-warning.gif

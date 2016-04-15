@@ -1,0 +1,999 @@
+<IMAGEPATHMAP>
+	<IMAGE name="AcceptGreenArrow">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\按钮\tanchutiao_lv_you-.png"/>
+	</IMAGE>
+	<IMAGE name="AcceptGreenBig">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\按钮\tanchutiao_lv_zuo.png"/>
+	</IMAGE>
+	<IMAGE name="AllPOPWIN_BG">
+		<IMAGEPATH colorcase="default" path="D:\D-box2\PC\切图\补充切片\补充切片\bg.png"/>
+	</IMAGE>
+	<IMAGE name="Animate_calling_Icon">
+		<IMAGEPATH colorcase="default" path="F:\V200R001C03IDEO-branches-BK\UCD设计\切图\FixCalling1.png"/>
+	</IMAGE>
+	<IMAGE name="Attendentslstv_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\K_digi_conf_02_正常底.png"/>
+	</IMAGE>
+	<IMAGE name="Attendentslstv_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\K_digi_conf_02_按下.png"/>
+	</IMAGE>
+	<IMAGE name="Audio2Video_bg_big">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\切图\9.png"/>
+	</IMAGE>
+	<IMAGE name="Audio_calling">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\during call.png"/>
+	</IMAGE>
+	<IMAGE name="Avator_box_22">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\头像\A_all_touxiangkuang.png"/>
+	</IMAGE>
+	<IMAGE name="BG4417">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="BlackEdit_bg_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\editbg.png"/>
+	</IMAGE>
+	<IMAGE name="Btn_Min_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Min_bg.png"/>
+	</IMAGE>
+	<IMAGE name="CalendarIcon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\G_IM\Col 3\G_IM_tanchukuang_icon.png"/>
+	</IMAGE>
+	<IMAGE name="Call_scrollfairy_icon">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\K_digi_conf\icon\静音1_8x10.png"/>
+	</IMAGE>
+	<IMAGE name="Checkbox_">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\Setting_chk_icon.png"/>
+	</IMAGE>
+	<IMAGE name="Conf_Ctrl_btn_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\yuhuizhe_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="Conf_Search_Clear_btn_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="Conf_select_bottom_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\bg_down.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_Call">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘5.13\btn_num_2.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum#Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘2.12\btn_num_11.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum*Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘2.12\btn_num_10.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum0Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘2.12\btn_num_0.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum1Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘2.12\btn_num_1.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum2Nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\Dial_Call.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum3Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘2.12\btn_num_3.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum4Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘5.13\btn_num_4.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum5Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘2.12\btn_num_5.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum6Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘5.13\btn_num_6.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum7Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘2.12\btn_num_7.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum8Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘5.13\btn_num_8.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallNum9Nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘2.12\btn_num_9.png"/>
+	</IMAGE>
+	<IMAGE name="GrayBtn">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\按钮\G_IM_button_shenhui.png"/>
+	</IMAGE>
+	<IMAGE name="INPUT_EDITCTRL_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\输入框\input.png"/>
+	</IMAGE>
+	<IMAGE name="I_recordvoice_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框44444_97%.png"/>
+	</IMAGE>
+	<IMAGE name="LocalMapIcon">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\user.png"/>
+	</IMAGE>
+	<IMAGE name="LogoBg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\头像\A_all_touxiangkuang.png"/>
+	</IMAGE>
+	<IMAGE name="Logo_showPicture_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\touying 002.png"/>
+	</IMAGE>
+	<IMAGE name="MainBgN32">
+		<IMAGEPATH colorcase="default" path="C:\Users\yWX143396\Desktop\col1_BG_new.png"/>
+	</IMAGE>
+	<IMAGE name="ManagerIcon">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\K_digi_conf\K_digi_zhujiangren_30x30.png"/>
+	</IMAGE>
+	<IMAGE name="ManagerIcon1">
+		<IMAGEPATH colorcase="default" path="D:\主讲人.png"/>
+	</IMAGE>
+	<IMAGE name="Meeting_btnOpen_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\会议切图\k_meeting_zhankai.png"/>
+	</IMAGE>
+	<IMAGE name="Meeting_btnOpen_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\会议切图\k_meeting_zhankai.png"/>
+	</IMAGE>
+	<IMAGE name="Meeting_btnOpen_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\会议切图\k_meeting_zhankai.png"/>
+	</IMAGE>
+	<IMAGE name="More_stc_threeDot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\通用\column3\I_voice_animation_more(3).png"/>
+	</IMAGE>
+	<IMAGE name="More_stc_threeDot_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\通用\column3\I_voice_animation_more(3).png"/>
+	</IMAGE>
+	<IMAGE name="More_stc_threeDot_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\通用\column3\I_voice_animation_more(3).png"/>
+	</IMAGE>
+	<IMAGE name="MultiPic">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\icon_list_screens.png"/>
+	</IMAGE>
+	<IMAGE name="Old_Back_popWin_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Pictures\Old_Black_PopWin_bg.png"/>
+	</IMAGE>
+	<IMAGE name="Old_Black_Input">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\Old_Black_Input_bg.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_BG">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\RK_POP_BG_WF.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_Item_HOT">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\choose-pop.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_LeftBar">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\RK_POP_LeftGrayBar.png"/>
+	</IMAGE>
+	<IMAGE name="Recorderbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\toumingdi.png"/>
+	</IMAGE>
+	<IMAGE name="RejectRedArrow">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\按钮\tanchutiao_hong_you.png"/>
+	</IMAGE>
+	<IMAGE name="RejectRedBig">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\按钮\tanchutiao_lv_you.png"/>
+	</IMAGE>
+	<IMAGE name="ShadowBg">
+		<IMAGEPATH colorcase="default" path="D:\D-box2\PC\切图\补充切片\补充切片\bg.png"/>
+	</IMAGE>
+	<IMAGE name="SignLVClose">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00206336\Desktop\close.png"/>
+	</IMAGE>
+	<IMAGE name="SpeakerIcon">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\K_digi_conf\K_digi_conf_zhujiangren30.png"/>
+	</IMAGE>
+	<IMAGE name="SystemSetIcon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\G_IM\Col 2\G_IM_icon_quickreply.png"/>
+	</IMAGE>
+	<IMAGE name="Video2Audio_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\Video2Audio_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="VideoCallOUt">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\video_callout.png"/>
+	</IMAGE>
+	<IMAGE name="VideoWindow_frmToolMenu_btnLeft3_icon">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_icon_huatong(8).png"/>
+	</IMAGE>
+	<IMAGE name="VideoWindow_nowCompereIcon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\K_digi_conf\K_digi_yanjiangrne.png"/>
+	</IMAGE>
+	<IMAGE name="VideoWindow_nowLecturerIcon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\K_digi_conf\K_digi_zhujiangren.png"/>
+	</IMAGE>
+	<IMAGE name="Video_smallIcon">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\N_notification\N_notification_ship.png"/>
+	</IMAGE>
+	<IMAGE name="Voice_Splitter_more">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_animation_more(3).png"/>
+	</IMAGE>
+	<IMAGE name="animRecored">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\辅流_动画.png"/>
+	</IMAGE>
+	<IMAGE name="anim_call_quality_green">
+		<IMAGEPATH colorcase="default" path="F:\IDEO项目\callquality\B_qualityBar_green_9600x18.png"/>
+	</IMAGE>
+	<IMAGE name="anim_call_quality_red">
+		<IMAGEPATH colorcase="default" path="F:\IDEO项目\callquality\B_qualityBar_red_9600x18.png"/>
+	</IMAGE>
+	<IMAGE name="anim_call_quality_yellow">
+		<IMAGEPATH colorcase="default" path="F:\IDEO项目\callquality\B_qualityBar_yellow_9600x18.png"/>
+	</IMAGE>
+	<IMAGE name="anim_conf_status">
+		<IMAGEPATH colorcase="default" path="F:\waitAnim.spp"/>
+	</IMAGE>
+	<IMAGE name="audio_callout">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\audio_callout.png"/>
+	</IMAGE>
+	<IMAGE name="bantoumingBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\00000.png"/>
+	</IMAGE>
+	<IMAGE name="bg1447">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\popWinBG1447.png"/>
+	</IMAGE>
+	<IMAGE name="bg1447_97%">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="bg2222">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\I_voice_conf\背景\I_voice_pop.png"/>
+	</IMAGE>
+	<IMAGE name="bg4444_97%">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框44444_97%.png"/>
+	</IMAGE>
+	<IMAGE name="bg_blue_card">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\calling_cor_bg_up.png"/>
+	</IMAGE>
+	<IMAGE name="bg_calling">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\bg_call_small.png"/>
+	</IMAGE>
+	<IMAGE name="bg_toolbar">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\calling_cor_bg.png"/>
+	</IMAGE>
+	<IMAGE name="blackPopWin_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\弹窗小圆角.png"/>
+	</IMAGE>
+	<IMAGE name="blue_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\bg_call.png"/>
+	</IMAGE>
+	<IMAGE name="btn1">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\00全局切图\btn_default.png"/>
+	</IMAGE>
+	<IMAGE name="btn2">
+		<IMAGEPATH colorcase="default" path="F:\btn2.png"/>
+	</IMAGE>
+	<IMAGE name="btnAudio2Video_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\button_change1.png"/>
+	</IMAGE>
+	<IMAGE name="btnAutoCallBack_disable">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\按钮\G_IM_button_hui_lv.png"/>
+	</IMAGE>
+	<IMAGE name="btnCancelSharing">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\SendDataDui\btn_StopData_press.png"/>
+	</IMAGE>
+	<IMAGE name="btnChangeHoz_Right_bg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\btnChangeVert_right.png"/>
+	</IMAGE>
+	<IMAGE name="btnChangeHoz_bg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\btnChangeVert_left.png"/>
+	</IMAGE>
+	<IMAGE name="btnChangeVert_Down_bg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\btnChangeVert_down.png"/>
+	</IMAGE>
+	<IMAGE name="btnChangeVert_bg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\btnChangeVert_bg.png"/>
+	</IMAGE>
+	<IMAGE name="btnCloseAttendent_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\K_digi_conf_02__列表图标.png"/>
+	</IMAGE>
+	<IMAGE name="btnCloseAttendent_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\K_digi_conf_02__列表图标.png"/>
+	</IMAGE>
+	<IMAGE name="btnCloseAttendent_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\K_digi_conf_02__列表图标.png"/>
+	</IMAGE>
+	<IMAGE name="btnCloseImage">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="btnDataSharing_disable">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 2\G_IM_pop_click_+sanjiao.png"/>
+	</IMAGE>
+	<IMAGE name="btnDataSharing_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 2\G_IM_pop_click_+sanjiao.png"/>
+	</IMAGE>
+	<IMAGE name="btnDataSharing_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 2\G_IM_pop_click_+sanjiao.png"/>
+	</IMAGE>
+	<IMAGE name="btnDataSharing_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 2\G_IM_pop_click_+sanjiao.png"/>
+	</IMAGE>
+	<IMAGE name="btnDialMore">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 2\G_IM_toolbar_△.png"/>
+	</IMAGE>
+	<IMAGE name="btnExitGroup_nor">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\A_home_exit.png"/>
+	</IMAGE>
+	<IMAGE name="btnFull2SmallScreen_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\I_voice_duichu_96x24(4).png"/>
+	</IMAGE>
+	<IMAGE name="btnFull2SmallScreen_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\P2PFullVideoCtrlToolGui\btn_FullScreen_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="btnGrayLeft_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\anniu.png"/>
+	</IMAGE>
+	<IMAGE name="btnGrayLeft_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\anniu.png"/>
+	</IMAGE>
+	<IMAGE name="btnGrayLeft_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\anniu.png"/>
+	</IMAGE>
+	<IMAGE name="btnGrayRight_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\anniu1.png"/>
+	</IMAGE>
+	<IMAGE name="btnGrayRight_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\anniu1.png"/>
+	</IMAGE>
+	<IMAGE name="btnGrayRight_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\anniu1.png"/>
+	</IMAGE>
+	<IMAGE name="btnGreen_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\btnGreen_bg.png"/>
+	</IMAGE>
+	<IMAGE name="btnHangUp_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\btnHungup_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="btnHungup_bg_big">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\btnHungup_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="btnPipChk_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\btnPipChk_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="btnRecordbg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\A__all_jiaonan.png"/>
+	</IMAGE>
+	<IMAGE name="btnSendData_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\button_FL.png"/>
+	</IMAGE>
+	<IMAGE name="btnSend_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\btnSend_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="btnSharing">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\share_full_close.png"/>
+	</IMAGE>
+	<IMAGE name="btnShowRecord">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\touming2.png"/>
+	</IMAGE>
+	<IMAGE name="btnShowRecordPress">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 2\Record2.png"/>
+	</IMAGE>
+	<IMAGE name="btnStopData_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\button_FL_停止.png"/>
+	</IMAGE>
+	<IMAGE name="btnStopData_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\btn_StopData_bg.png"/>
+	</IMAGE>
+	<IMAGE name="btnVideo2Audio_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\button_change.png"/>
+	</IMAGE>
+	<IMAGE name="btn_FullScreen_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\btn_SmallScreen_bg.png"/>
+	</IMAGE>
+	<IMAGE name="btn_Video2Audio_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\icon_video swith voice.png"/>
+	</IMAGE>
+	<IMAGE name="btn_apply_chairman">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\icon_apply_chairman.png"/>
+	</IMAGE>
+	<IMAGE name="btn_audio_accept_prs">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\voice-calls_btn_hov.png"/>
+	</IMAGE>
+	<IMAGE name="btn_broadcast_bg_checked">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\btn_eye_normal.png"/>
+	</IMAGE>
+	<IMAGE name="btn_broadcast_bg_nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\btn_eye_disable.png"/>
+	</IMAGE>
+	<IMAGE name="btn_close_14_14">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\icon-close-WF.png"/>
+	</IMAGE>
+	<IMAGE name="btn_close_bg_16">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\btn_delete_normal.png"/>
+	</IMAGE>
+	<IMAGE name="btn_close_bg_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\btn_delete_click.png"/>
+	</IMAGE>
+	<IMAGE name="btn_green_bg_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\切图\接听2-hot.png"/>
+	</IMAGE>
+	<IMAGE name="btn_green_bg_nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\切图\接听2-normal.png"/>
+	</IMAGE>
+	<IMAGE name="btn_green_bg_pre">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\切图\接听2-press.png"/>
+	</IMAGE>
+	<IMAGE name="btn_picDecrease_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\displayPic\suoxiao.png"/>
+	</IMAGE>
+	<IMAGE name="btn_picDecrease_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\displayPic\suoxiao.png"/>
+	</IMAGE>
+	<IMAGE name="btn_picDecrease_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\displayPic\suoxiao.png"/>
+	</IMAGE>
+	<IMAGE name="btn_picIncrease_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\displayPic\fangda.PNG"/>
+	</IMAGE>
+	<IMAGE name="btn_picIncrease_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\displayPic\fangda.PNG"/>
+	</IMAGE>
+	<IMAGE name="btn_picIncrease_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\displayPic\fangda.PNG"/>
+	</IMAGE>
+	<IMAGE name="btn_red_bg_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\切图\拒绝-hot.png"/>
+	</IMAGE>
+	<IMAGE name="btn_red_bg_nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\切图\拒绝-normal.png"/>
+	</IMAGE>
+	<IMAGE name="btn_red_bg_pre">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\切图\拒绝-press.png"/>
+	</IMAGE>
+	<IMAGE name="btn_red_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\按钮\tanchutiao_lv_you.png"/>
+	</IMAGE>
+	<IMAGE name="btn_reject_nor">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\8.24来电显示\8.24来电显示\hangup_btn_hover.png"/>
+	</IMAGE>
+	<IMAGE name="btn_reject_prs">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\hangup_btn_nor.png"/>
+	</IMAGE>
+	<IMAGE name="btn_video_accept">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\8.24来电显示\8.24来电显示\video-calls_btn_hover.png"/>
+	</IMAGE>
+	<IMAGE name="btn_video_accept_prs">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\video-calls_btn_nor.png"/>
+	</IMAGE>
+	<IMAGE name="btnaddconfhall">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\icon_add_meetingplace.png"/>
+	</IMAGE>
+	<IMAGE name="btnextendmeeting">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\icon_extend_meeting.png"/>
+	</IMAGE>
+	<IMAGE name="btnhallspeaking">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\会议切片4.15\icon_mic.png"/>
+	</IMAGE>
+	<IMAGE name="btnmoremenu">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\chkPicmode_more.png"/>
+	</IMAGE>
+	<IMAGE name="btnreleaseairman">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\icon_release_chairman.png"/>
+	</IMAGE>
+	<IMAGE name="calltrans_sel_icon">
+		<IMAGEPATH colorcase="default" path="F:\col1_trangle_24.spp"/>
+	</IMAGE>
+	<IMAGE name="calltransinputBg">
+		<IMAGEPATH colorcase="default" path="F:\loginInput.png"/>
+	</IMAGE>
+	<IMAGE name="cam_close_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\video_open_bg.png"/>
+	</IMAGE>
+	<IMAGE name="checkbox2">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\checkbox2.png"/>
+	</IMAGE>
+	<IMAGE name="checkbox_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\L_login\guo.png"/>
+	</IMAGE>
+	<IMAGE name="chkAttachment_checked_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biezhen.png"/>
+	</IMAGE>
+	<IMAGE name="chkAttachment_checked_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biezhen.png"/>
+	</IMAGE>
+	<IMAGE name="chkAttachment_checked_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biezhen.png"/>
+	</IMAGE>
+	<IMAGE name="chkAttachment_unc_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biezhen.png"/>
+	</IMAGE>
+	<IMAGE name="chkAttachment_unc_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biezhen.png"/>
+	</IMAGE>
+	<IMAGE name="chkAttachment_unc_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biezhen.png"/>
+	</IMAGE>
+	<IMAGE name="chkCombSwitchUn_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\icon_three screen2.png"/>
+	</IMAGE>
+	<IMAGE name="chkCombSwitch_Chk_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\combchecked.PNG"/>
+	</IMAGE>
+	<IMAGE name="chkCombSwitch_Unc_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\combunchecked.PNG"/>
+	</IMAGE>
+	<IMAGE name="chkCombSwitch_chk_bg_big">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\目前\工具条按钮\chkCombSwitch_chk_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkGroupEdit_checked_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_xiangxia.png"/>
+	</IMAGE>
+	<IMAGE name="chkGroupEdit_checked_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_xiangxia.png"/>
+	</IMAGE>
+	<IMAGE name="chkGroupEdit_checked_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_xiangxia.png"/>
+	</IMAGE>
+	<IMAGE name="chkGroupEdit_unc_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_xiangxia.png"/>
+	</IMAGE>
+	<IMAGE name="chkGroupEdit_unc_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_xiangxia.png"/>
+	</IMAGE>
+	<IMAGE name="chkGroupEdit_unc_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_xiangxia.png"/>
+	</IMAGE>
+	<IMAGE name="chkMark_checked_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biaoqian.png"/>
+	</IMAGE>
+	<IMAGE name="chkMark_checked_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biaoqian.png"/>
+	</IMAGE>
+	<IMAGE name="chkMark_checked_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biaoqian.png"/>
+	</IMAGE>
+	<IMAGE name="chkMark_unc_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biaoqian.png"/>
+	</IMAGE>
+	<IMAGE name="chkMark_unc_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biaoqian.png"/>
+	</IMAGE>
+	<IMAGE name="chkMark_unc_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_biaoqian.png"/>
+	</IMAGE>
+	<IMAGE name="chkMic_uncheck_bg_big">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\chkMic_uncheck_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkMicrophone_checked_dis">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_icon_huatong(8).png"/>
+	</IMAGE>
+	<IMAGE name="chkMicrophone_checked_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_icon_huatong(8).png"/>
+	</IMAGE>
+	<IMAGE name="chkMicrophone_checked_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_icon_huatong(8).png"/>
+	</IMAGE>
+	<IMAGE name="chkMicrophone_checked_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_icon_huatong(8).png"/>
+	</IMAGE>
+	<IMAGE name="chkMicrophone_unchecked_dis">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_icon_huatong(8).png"/>
+	</IMAGE>
+	<IMAGE name="chkMicrophone_unchecked_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_icon_huatong(8).png"/>
+	</IMAGE>
+	<IMAGE name="chkMicrophone_unchecked_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\chkMic_uncheck_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkMicrophone_unchecked_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\I_voice_icon_huatong(8).png"/>
+	</IMAGE>
+	<IMAGE name="chkPIPSwitch_Chk_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\pipShow.PNG"/>
+	</IMAGE>
+	<IMAGE name="chkPIPSwitch_Unc_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\button_QP.png"/>
+	</IMAGE>
+	<IMAGE name="chkPicmode_checked">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\chkPicmode_checked.png"/>
+	</IMAGE>
+	<IMAGE name="chkRecord_checked_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\Record2.png"/>
+	</IMAGE>
+	<IMAGE name="chkRecord_checked_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\Record2.png"/>
+	</IMAGE>
+	<IMAGE name="chkRecord_checked_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\Record2.png"/>
+	</IMAGE>
+	<IMAGE name="chkRecord_unc_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\Record2.png"/>
+	</IMAGE>
+	<IMAGE name="chkRecord_unc_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\Record2.png"/>
+	</IMAGE>
+	<IMAGE name="chkRecord_unc_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\Record2.png"/>
+	</IMAGE>
+	<IMAGE name="chkSwitch2Main_Chk_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\swith2main2.PNG"/>
+	</IMAGE>
+	<IMAGE name="chkSwitch2Main_bg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\已改\swith2main1.PNG"/>
+	</IMAGE>
+	<IMAGE name="chkSwitch2Main_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\chkSwitch2Main_unchk_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkSwitch2Main_chk_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\chkSwitch2Main_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkThreeColumn">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\按钮\M_meeting_shouhui(3).png"/>
+	</IMAGE>
+	<IMAGE name="chkVideo_unchecked_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\Video2Audio_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkVoice_unchecked_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\chkvoice0_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkpicmode_unchecked">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\chkPicmode_unchk_checked.png"/>
+	</IMAGE>
+	<IMAGE name="chkvoice0">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\voice\chkvoice1_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkvoice0_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\voice\chkvoice1_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkvoice2">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\voice\chkvoice2_big.png"/>
+	</IMAGE>
+	<IMAGE name="chkvoice3">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\voice\chkvoice0_big.png"/>
+	</IMAGE>
+	<IMAGE name="close3.spp">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\icon-close-WF.png"/>
+	</IMAGE>
+	<IMAGE name="combBox_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\xialakuang.png"/>
+	</IMAGE>
+	<IMAGE name="combswitch_checked">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\combchecked.PNG"/>
+	</IMAGE>
+	<IMAGE name="combswitch_unchecked">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\combunchecked.PNG"/>
+	</IMAGE>
+	<IMAGE name="dialCall_num1_bg">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\Dial_CallNum1Nor.png"/>
+	</IMAGE>
+	<IMAGE name="dial_bg">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\dial_bg.png"/>
+	</IMAGE>
+	<IMAGE name="dial_num6_bg">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\Dial_CallNum6Nor.png"/>
+	</IMAGE>
+	<IMAGE name="digi_shousuo_left">
+		<IMAGEPATH colorcase="default" path="E:\EBG_eSpace_Desktop_SVN\02.Doc\软件开发组\03.设计\UCD设计\切图标注\切图汇总\K_digi_conf\K_digi_shoushuo_btn.png"/>
+	</IMAGE>
+	<IMAGE name="digi_shousuo_right">
+		<IMAGEPATH colorcase="default" path="E:\EBG_eSpace_Desktop_SVN\02.Doc\软件开发组\03.设计\UCD设计\切图标注\切图汇总\K_digi_conf\K_digi_shoushuo_btn_2.png"/>
+	</IMAGE>
+	<IMAGE name="displayChatinfo_splitline_bg">
+		<IMAGEPATH colorcase="default" path="F:\displayChatinfo_splitline_bg.png"/>
+	</IMAGE>
+	<IMAGE name="dropDown_sms_nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\G_IM_select_bg (2).png"/>
+	</IMAGE>
+	<IMAGE name="edit_black_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹窗—输入框_212121(3).png"/>
+	</IMAGE>
+	<IMAGE name="edit_nor">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹窗—输入框_212121(3).png"/>
+	</IMAGE>
+	<IMAGE name="fontFamilyPopList_Frame_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\A_all_touxiangkuang.png"/>
+	</IMAGE>
+	<IMAGE name="fontFamilyPopList_itemBg">
+		<IMAGEPATH colorcase="default" path="D:\temp\临时切图\字体选中背景.png"/>
+	</IMAGE>
+	<IMAGE name="fullbar_blue_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\fullbar_blue_bg.png"/>
+	</IMAGE>
+	<IMAGE name="fullscreen_bg">
+		<IMAGEPATH colorcase="default" path="C:\Program Files\Polycom\RealPresence Desktop\resources\Icons\background_image.png"/>
+	</IMAGE>
+	<IMAGE name="hallSpeaking_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\icon_talking.png"/>
+	</IMAGE>
+	<IMAGE name="hungup_bg_hot">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\VoiceCongfNewDui\hungup_bg_hot.png"/>
+	</IMAGE>
+	<IMAGE name="hungup_bg_nor">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\VoiceCongfNewDui\hungup_bg_nor.png"/>
+	</IMAGE>
+	<IMAGE name="hungup_bg_pres">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\VoiceCongfNewDui\hungup_bg_pres.png"/>
+	</IMAGE>
+	<IMAGE name="im_arrow_down">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00206336\Desktop\im_arrow_down.dui"/>
+	</IMAGE>
+	<IMAGE name="im_arrow_up">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00206336\Desktop\im_arrow_up.dui"/>
+	</IMAGE>
+	<IMAGE name="im_audio_accept_btn">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\8.24来电显示\8.24来电显示\voice-calls_btn_hover.png"/>
+	</IMAGE>
+	<IMAGE name="im_avswitch">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\avswitch.jpg"/>
+	</IMAGE>
+	<IMAGE name="im_bottom_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\公共\WelcomeTop弹出框下部.png"/>
+	</IMAGE>
+	<IMAGE name="im_call_status_bg">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\新建文件夹\呼叫状态.png"/>
+	</IMAGE>
+	<IMAGE name="im_expand_check_hover">
+		<IMAGEPATH colorcase="default" path="F:\Button_Visible.spp"/>
+	</IMAGE>
+	<IMAGE name="im_expand_check_normal">
+		<IMAGEPATH colorcase="default" path="F:\Button_Visible.spp"/>
+	</IMAGE>
+	<IMAGE name="im_expand_check_press">
+		<IMAGEPATH colorcase="default" path="F:\Button_Visible.spp"/>
+	</IMAGE>
+	<IMAGE name="im_expand_uncheck_hover">
+		<IMAGEPATH colorcase="default" path="F:\Button_Invisible.spp"/>
+	</IMAGE>
+	<IMAGE name="im_expand_uncheck_normal">
+		<IMAGEPATH colorcase="default" path="F:\Button_Invisible.spp"/>
+	</IMAGE>
+	<IMAGE name="im_expand_uncheck_press">
+		<IMAGEPATH colorcase="default" path="F:\Button_Invisible.spp"/>
+	</IMAGE>
+	<IMAGE name="im_full_toobar">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\voice-corcle\bg_voice.png"/>
+	</IMAGE>
+	<IMAGE name="im_input_status_animation">
+		<IMAGEPATH colorcase="default" path="F:\G_IM_Writing_990x11.png"/>
+	</IMAGE>
+	<IMAGE name="im_minimize_btn">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00217212\Desktop\min.png"/>
+	</IMAGE>
+	<IMAGE name="im_record_tip">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\G_IM_hong_17x17.png"/>
+	</IMAGE>
+	<IMAGE name="im_senddata">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\sendData.PNG"/>
+	</IMAGE>
+	<IMAGE name="im_toobar_sms_icon_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\G_IM_toolbar_icon_sms.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_dial_icon">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 2\G_IM_toolbar_icon_dail.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_font_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\切图汇总\G_IM\Col 2\G_IM_toolbar_A.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_screen_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\G_IM_toolbar_qietu.png"/>
+	</IMAGE>
+	<IMAGE name="im_toolbar_sms_icon">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\sms.png"/>
+	</IMAGE>
+	<IMAGE name="im_top_bg_noshadow">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\02设置\切图\frm_topBar_bg.png"/>
+	</IMAGE>
+	<IMAGE name="im_top_closebtn">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="im_video_accept">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00226160\Desktop\tanchutiao_lv_you_three.png"/>
+	</IMAGE>
+	<IMAGE name="img_sendingdata">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\btnSend_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="img_sendingdata_toolbar">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\share_close.png"/>
+	</IMAGE>
+	<IMAGE name="immainframebg">
+		<IMAGEPATH colorcase="default" path="F:\im_mainframe_bg.png"/>
+	</IMAGE>
+	<IMAGE name="input_common">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\L_login\server_inputbox_test.png"/>
+	</IMAGE>
+	<IMAGE name="listviewItem_bg_normal">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\popWinListItembg\cutline.png"/>
+	</IMAGE>
+	<IMAGE name="listviewItem_bg_selected">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\popWinListItembg\pop_menu_selected.png"/>
+	</IMAGE>
+	<IMAGE name="logoHot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\头像\A_all_touxiangkuang_hot.png"/>
+	</IMAGE>
+	<IMAGE name="logoscrollitem">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\0.png"/>
+	</IMAGE>
+	<IMAGE name="min_call_voice_compere">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\K_digi_conf\icon\K_digi_conf_12X12_04.png"/>
+	</IMAGE>
+	<IMAGE name="mini_StopCallbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\mini_StopCallbg.png"/>
+	</IMAGE>
+	<IMAGE name="mini_call_setVolumn_bg">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\voice-corcle\no_voice.png"/>
+	</IMAGE>
+	<IMAGE name="mini_call_setVolumn_bg_front">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\voice-corcle\have_voice.png"/>
+	</IMAGE>
+	<IMAGE name="mini_call_setVolumn_formbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\数据会议纯黑色.png"/>
+	</IMAGE>
+	<IMAGE name="mini_call_setVolumn_thumb">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\voice-corcle\circle_voice.png"/>
+	</IMAGE>
+	<IMAGE name="mini_call_voice_lecturer">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\K_digi_conf\icon\K_digi_conf_12X12_03.png"/>
+	</IMAGE>
+	<IMAGE name="mini_callmenu_resume">
+		<IMAGEPATH colorcase="default" path="F:\callhold.png"/>
+	</IMAGE>
+	<IMAGE name="newInputStatusBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\pen1.png"/>
+	</IMAGE>
+	<IMAGE name="newtest">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\btn_num_11.png"/>
+	</IMAGE>
+	<IMAGE name="num#">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum#_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num*">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNumStar_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num0">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum0_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num1">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum1_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num2">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum2_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num3">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum3_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num4">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum4_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num5">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum5_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num6">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum6_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num7">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum7_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num8">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum8_bg.png"/>
+	</IMAGE>
+	<IMAGE name="num9">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\二次拨号盘\二次拨号盘\二次拨号盘\Dial_CallNum9_bg.png"/>
+	</IMAGE>
+	<IMAGE name="picDisplayShow_DownTools_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\zoom-bg.png"/>
+	</IMAGE>
+	<IMAGE name="picmodebg">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\img_sendingdata 副本.png"/>
+	</IMAGE>
+	<IMAGE name="pip_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\btnPipChk_unchk_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="pipswitchchecked">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\pipShow.PNG"/>
+	</IMAGE>
+	<IMAGE name="pipswitchunchecked">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\pipHide.PNG"/>
+	</IMAGE>
+	<IMAGE name="popWin4444">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框44444_97%.png"/>
+	</IMAGE>
+	<IMAGE name="popWinBg.spp">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框1447_97%.png"/>
+	</IMAGE>
+	<IMAGE name="popWinbg2_NoShadow">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\数据会议纯黑色.png"/>
+	</IMAGE>
+	<IMAGE name="popupList_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\login\xialakuang.png"/>
+	</IMAGE>
+	<IMAGE name="popwin_item_hover">
+		<IMAGEPATH colorcase="default" path="F:\popwin_item_hover.png"/>
+	</IMAGE>
+	<IMAGE name="popwin_item_normal">
+		<IMAGEPATH colorcase="default" path="F:\popwin_item_normal.png"/>
+	</IMAGE>
+	<IMAGE name="portrait_border_img">
+		<IMAGEPATH colorcase="default" path="F:\portrait_border_img.png"/>
+	</IMAGE>
+	<IMAGE name="probBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\进度条\progrees-bg.png"/>
+	</IMAGE>
+	<IMAGE name="probFont">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\进度条\progrees.png"/>
+	</IMAGE>
+	<IMAGE name="rightDownPopWin_MidListview_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹出框_zhongjian.png"/>
+	</IMAGE>
+	<IMAGE name="search_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\column3\enter box_24(2).png"/>
+	</IMAGE>
+	<IMAGE name="search_btn">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\B_mini\B_mini_search(3).png"/>
+	</IMAGE>
+	<IMAGE name="searchbarnormal">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\01联系人\切图\searchbar\col1_search_bar.png"/>
+	</IMAGE>
+	<IMAGE name="searchtool">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\01联系人\切图\searchbar\main_search_left.png"/>
+	</IMAGE>
+	<IMAGE name="secondDialPad_bg_big">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\DUIVideoCtrlTool\secondDialPad_bg_big.png"/>
+	</IMAGE>
+	<IMAGE name="setvolumn">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\voice-corcle\circle_voice.png"/>
+	</IMAGE>
+	<IMAGE name="sign_listview_back">
+		<IMAGEPATH colorcase="default" path="F:\popSinglelist_bg.spp"/>
+	</IMAGE>
+	<IMAGE name="slidebarThumb_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\displayPic\I_voice_button(3).png"/>
+	</IMAGE>
+	<IMAGE name="smsNotifyIcon">
+		<IMAGEPATH colorcase="default" path="G:\Br_V200R001C02LENT01B020_LCEB_20121227\Winbin\Debug\eSpaceIM\images\G_IM_message.png"/>
+	</IMAGE>
+	<IMAGE name="stcAudioCall">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\通话中\voice call out1.png"/>
+	</IMAGE>
+	<IMAGE name="stcCallFinishedStatusIcon">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\calling_over.png"/>
+	</IMAGE>
+	<IMAGE name="stcShadow">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\directUI\731切图\K_digi_conf_02 副本.png"/>
+	</IMAGE>
+	<IMAGE name="stcVideoCall">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\IM图标\通话中\video call out1.png"/>
+	</IMAGE>
+	<IMAGE name="stc_signal">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\im_toorbar_signal.png"/>
+	</IMAGE>
+	<IMAGE name="switch2main1">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\swith2main1.PNG"/>
+	</IMAGE>
+	<IMAGE name="switch2main2">
+		<IMAGEPATH colorcase="default" path="D:\VC200_Code\光大基线修改1\Winbin\Debug\Themes\songhuamei\IM\img\swith2main2.PNG"/>
+	</IMAGE>
+	<IMAGE name="talkRecods_btn_quit_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="test">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\CapslockBg.png"/>
+	</IMAGE>
+	<IMAGE name="toolbar_bg">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\footer background image_1660x60.png"/>
+	</IMAGE>
+	<IMAGE name="toolbgeclipse">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\calling_cor_bg.png"/>
+	</IMAGE>
+	<IMAGE name="trans_line">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\pc_二次拨号盘\keypad_line.png"/>
+	</IMAGE>
+	<IMAGE name="trans_popwin_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\pc_二次拨号盘2.10\pc_二次拨号盘2.10\keypad_bg.png"/>
+	</IMAGE>
+	<IMAGE name="userbg">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\0 60px.png"/>
+	</IMAGE>
+	<IMAGE name="vide0_call_in_ani">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\video_callout_small.png"/>
+	</IMAGE>
+	<IMAGE name="video_big_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\J_video_conf\J_video_bofan.png"/>
+	</IMAGE>
+	<IMAGE name="video_call_in_ani">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\video call in.png"/>
+	</IMAGE>
+	<IMAGE name="video_open_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00295058\Desktop\image\video_bg.png"/>
+	</IMAGE>
+	<IMAGE name="voice_call_in">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\audio_callout_small.png"/>
+	</IMAGE>
+	<IMAGE name="volumn_channel_dis">
+		<IMAGEPATH colorcase="default" path="\\10.177.35.97\TE Desktop V500R002C00切图\补充切片\voice-corcle\have_voice_gray.png"/>
+	</IMAGE>
+	<IMAGE name="vomToolBar_bg">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\footer background image_1660x60.png"/>
+	</IMAGE>
+	<IMAGE name="win_bg_rect">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop UCD整改切图\切图\弹窗背景.png"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

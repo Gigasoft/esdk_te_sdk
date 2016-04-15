@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="MainFrame" Author="" Company="" CreateDate="" Path="E:\song\directUI\working\ThemesNew\MainFrame\MainFrame.dsln"/>
+	<Dui>
+		<GuidC76630F8C0C04AC59E329AA598F7C85B DuiName="MainFrame" DuiPath="E:\song\directUI\working\ThemesNew\MainFrame\MainFrame.dui">
+			<GuidA6910781C5F74890B91A58642BFDF7E7 SknName="MainFrame" SknPath="E:\song\directUI\working\ThemesNew\MainFrame\MainFrame.skn" Theme=""/>
+		</GuidC76630F8C0C04AC59E329AA598F7C85B>
+	</Dui>
+</DirectUI>
+

@@ -1,0 +1,27 @@
+<IMAGEPATHMAP>
+	<IMAGE name="Dial_CallNor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00208175\Desktop\拨号盘资源\小尺寸\call_L2.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallOver">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00208175\Desktop\拨号盘资源\小尺寸\call_L3.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_CallPress">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00208175\Desktop\拨号盘资源\小尺寸\call_LP.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_DelNor">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00208175\Desktop\拨号盘资源\小尺寸\del_L.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_DelOver">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00208175\Desktop\拨号盘资源\小尺寸\del_LO2.png"/>
+	</IMAGE>
+	<IMAGE name="Dial_DelPress">
+		<IMAGEPATH colorcase="default" path="C:\Users\c00208175\Desktop\拨号盘资源\小尺寸\del_LP.png"/>
+	</IMAGE>
+	<IMAGE name="blackPopWindow_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\弹窗小圆角.png"/>
+	</IMAGE>
+	<IMAGE name="editInput_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\弹窗—输入框_212121(3).png"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

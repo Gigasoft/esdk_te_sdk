@@ -1,0 +1,57 @@
+<IMAGEPATHMAP>
+	<IMAGE name="Common_EditCtrl_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\INPUT_EDITCTRL_bg-.png"/>
+	</IMAGE>
+	<IMAGE name="Common_btn_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\btn_default.png"/>
+	</IMAGE>
+	<IMAGE name="Common_checkbox_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\Setting_chk_icon.png"/>
+	</IMAGE>
+	<IMAGE name="Conf_SearchBar_bk">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\col1_search_bar.png"/>
+	</IMAGE>
+	<IMAGE name="Conf_SearchBar_close_btn">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="Conf_SearchBar_fadajin">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\main_search_left_btn.png"/>
+	</IMAGE>
+	<IMAGE name="Conf_SearchBar_hot_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\col1_search_bar_green.png"/>
+	</IMAGE>
+	<IMAGE name="CreateConf_btn_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\contacts\btn_new_meeting\btn_new_meeting.png"/>
+	</IMAGE>
+	<IMAGE name="CreateConf_btn_graphic">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\contacts\btn_new_meeting\icon_new_meeting.png"/>
+	</IMAGE>
+	<IMAGE name="Logo_img">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\about\logo.png"/>
+	</IMAGE>
+	<IMAGE name="Logo_txt_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\logo.png"/>
+	</IMAGE>
+	<IMAGE name="btn_close_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="checked_btn_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\contacts\tab_selected.png"/>
+	</IMAGE>
+	<IMAGE name="confCreate_inner">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\会议切片4.15\bg_meeting.png"/>
+	</IMAGE>
+	<IMAGE name="frm_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\bg.png"/>
+	</IMAGE>
+	<IMAGE name="frm_top_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\02设置\切图\frm_topBar_bg.png"/>
+	</IMAGE>
+	<IMAGE name="nomember_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\nopeople.png"/>
+	</IMAGE>
+	<IMAGE name="stcVertLine">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\contacts\stcVertSipLine_bg"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

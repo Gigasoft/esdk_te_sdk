@@ -1,0 +1,150 @@
+<IMAGEPATHMAP>
+	<IMAGE name="ALLPOPWIN_BG_BG">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\未完成\AllPOPWIN_BGbg.png"/>
+	</IMAGE>
+	<IMAGE name="All_history">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\切图\3.png"/>
+	</IMAGE>
+	<IMAGE name="AloneWindowBG">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\白色独立窗体.png"/>
+	</IMAGE>
+	<IMAGE name="AloneWindowBOTTOM_BG">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\frmBottom_bg.png"/>
+	</IMAGE>
+	<IMAGE name="AloneWindowTOP_BG">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\frmTopTitleBg_bg.png"/>
+	</IMAGE>
+	<IMAGE name="BTN_COM_BG">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\btn_default.png"/>
+	</IMAGE>
+	<IMAGE name="BtnMinPOP_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\icon-min-WF.png"/>
+	</IMAGE>
+	<IMAGE name="Chk_ReSizeWin_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\btn_MinAndMax_WF.png"/>
+	</IMAGE>
+	<IMAGE name="HistoryRecordVideo__card">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\联系人\video_ICON.png"/>
+	</IMAGE>
+	<IMAGE name="HistoryTitleBg">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\通话记录\通话记录-_分类.png"/>
+	</IMAGE>
+	<IMAGE name="INPUT_EDITCTRL_BG">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\切图第4波\切图第4波\Edit_Ctrl_bg.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_BG">
+		<IMAGEPATH colorcase="default" path="D:\D-box2\PC\切图\补充切片\补充切片\bg.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_GouIcon">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\RKPOP_Item_Gou_bg.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_Item_HOT">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\choose-pop.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_LeftBar">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\03右键菜单\切图\右键菜单背景.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_SubMenu_Icon">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\sanjiao-pop.png"/>
+	</IMAGE>
+	<IMAGE name="answer_history">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\切图\2.png"/>
+	</IMAGE>
+	<IMAGE name="btnDate_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\btnDate_bg.png"/>
+	</IMAGE>
+	<IMAGE name="btnMin_bg_bg">
+		<IMAGEPATH colorcase="default" path="D:\temp\im_minimize_btn.png"/>
+	</IMAGE>
+	<IMAGE name="btnSubArrow_press">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\sanjiao-pop.png"/>
+	</IMAGE>
+	<IMAGE name="callout_histrory">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\切图\1.png"/>
+	</IMAGE>
+	<IMAGE name="col1_search_bar.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\col1_search_bar.png"/>
+	</IMAGE>
+	<IMAGE name="col2TitleBar_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\主面板\titleBar-WF.png"/>
+	</IMAGE>
+	<IMAGE name="col2_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\col2_NoShadow_bg.png"/>
+	</IMAGE>
+	<IMAGE name="column2_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\column2_bg.png"/>
+	</IMAGE>
+	<IMAGE name="history_search_bg_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\col1_search_bar_green.png"/>
+	</IMAGE>
+	<IMAGE name="history_search_bg_nor">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\col1_search_bar.png"/>
+	</IMAGE>
+	<IMAGE name="listautocallback">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\listautocallback"/>
+	</IMAGE>
+	<IMAGE name="listcallin">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\listcallin"/>
+	</IMAGE>
+	<IMAGE name="listcallout">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\listcallout"/>
+	</IMAGE>
+	<IMAGE name="listmisscall">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\listmisscall"/>
+	</IMAGE>
+	<IMAGE name="login_radio_unchecked_normal">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\AllRadioBox.png"/>
+	</IMAGE>
+	<IMAGE name="lstv_Item_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\guangda6-13\contact-huaguodianji.png"/>
+	</IMAGE>
+	<IMAGE name="main_conversation_card_dial_icon">
+		<IMAGEPATH colorcase="default" path="D:\ZhiZhen\韩思洋切图espace for tp_1\联系人\phone_ICON.png"/>
+	</IMAGE>
+	<IMAGE name="main_search_left_btn.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\main_search_left_btn.png"/>
+	</IMAGE>
+	<IMAGE name="newBtnCall1314_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newBtnCall1314.png"/>
+	</IMAGE>
+	<IMAGE name="newBtnCall1314_normal">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newBtnCall1314.png"/>
+	</IMAGE>
+	<IMAGE name="newBtnCall1314_press">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newBtnCall1314.png"/>
+	</IMAGE>
+	<IMAGE name="newbtnColse14_hot">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="newbtnColse14_normal">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="newbtnColse14_press">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\searchbar\newbtnColse14.png"/>
+	</IMAGE>
+	<IMAGE name="no_answer_his">
+		<IMAGEPATH colorcase="default" path="D:\z00220320\4.png"/>
+	</IMAGE>
+	<IMAGE name="rdxhistoryallBg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\全部未读背景.png"/>
+	</IMAGE>
+	<IMAGE name="search_input">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\search_input.png"/>
+	</IMAGE>
+	<IMAGE name="stcVertSipLine_bg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\竖向.png"/>
+	</IMAGE>
+	<IMAGE name="stc_no_miss_record">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\nothing.png"/>
+	</IMAGE>
+	<IMAGE name="stc_no_record">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\nothing.png"/>
+	</IMAGE>
+	<IMAGE name="tab_page_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\contacts\tab_selected.png"/>
+	</IMAGE>
+	<IMAGE name="tab_title_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00220747\Desktop\image\扁平化版本\公共\tab_title_bg.png"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

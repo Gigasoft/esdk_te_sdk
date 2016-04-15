@@ -1,0 +1,20 @@
+[OPTIONS]
+Compiled file=TEDesktop-en.chm
+Contents file=TEDesktop-en.hhc
+Default Window=hwwindow
+Full-text search=Yes
+Display compile progress=No
+Index file=TEDesktop-en.hhk
+Binary Index=No
+Language=0x0409 English (United States)
+Default topic=hlp/TEDesktop_concept_00000-en.html
+Title=TE Desktop在线帮助
+
+[WINDOWS]
+hwwindow=,"TEDesktop-en.hhc","TEDesktop-en.hhk","hlp/TEDesktop_concept_00000-en.html","hlp/TEDesktop_concept_00000-en.html",,,,,0x62520,200,0x300E,[50,10,550,470],0xB0000,,,,,,0
+
+[INFOTYPES]
+
+[FILES]
+public_sys-resources\icon-arrowdn.gif
+public_sys-resources\icon-arrowrt.gif

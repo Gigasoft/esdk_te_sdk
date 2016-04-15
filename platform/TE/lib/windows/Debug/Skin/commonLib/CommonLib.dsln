@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="CommonLib" Author="" Company="" CreateDate="" Path="C:\Documents and Settings\Administrator\桌面\commonLib\CommonLib.dsln"/>
+	<Dui>
+		<GuidB9ADCEC937574C2984102BACA5DA6AEC DuiName="CommonLib" DuiPath="C:\Documents and Settings\Administrator\桌面\commonLib\CommonLib.dui">
+			<GuidC375A9A612CE4EE5A65E483FE10A98FF SknName="CommonLib" SknPath="C:\Documents and Settings\Administrator\桌面\commonLib\CommonLib.skn" Theme=""/>
+		</GuidB9ADCEC937574C2984102BACA5DA6AEC>
+	</Dui>
+</DirectUI>
+

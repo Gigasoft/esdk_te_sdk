@@ -1,0 +1,103 @@
+.scroll-container{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 6px;
+    height: 100%;
+    cursor: default;
+}
+
+#scroll-container div{
+    font-size: 0px;
+}
+
+#scroll-area{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.scroll-body{
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+}
+
+.scroll-body-up, .scroll-body-down{
+    position: absolute;
+    left: 0px;
+    width: 6px;
+    height: 3px;
+}
+
+.scroll-body-up{
+    top: 0px;
+    background-image: url(../images/scroll_up.png) ;
+    background-repeat: no-repeat ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src="../images/scroll_up.png" ) ;
+}
+
+.scroll-body-down{
+    bottom: 0px;
+    background-image: url(../images/scroll_down.png) ;
+    background-repeat: no-repeat ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=crop , src="../images/scroll_down.png" ) ;
+}
+
+.scroll-body-mid{
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    width: 6px;
+    background-image: url(../images/scroll_mid.png) ;
+    background-repeat: repeat-y ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src="../images/scroll_mid.png" ) ;
+}
+
+.scroll-body-hover .scroll-body-up{
+    background-image: url(../images/scroll_up_hover.png) ;
+    background-repeat: repeat-y ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src="../images/scroll_up_hover.png" ) ;
+}
+
+.scroll-body-hover .scroll-body-mid{
+    background-image: url(../images/scroll_mid_hover.png) ;
+    background-repeat: repeat-y ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src="../images/scroll_mid_hover.png" ) ;
+}
+
+.scroll-body-hover .scroll-body-down{
+    background-image: url(../images/scroll_down_hover.png) ;
+    background-repeat: repeat-y ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src="../images/scroll_down_hover.png" ) ;
+}
+
+.scroll-body-active .scroll-body-up{
+    background-image: url(../images/scroll_up_press.png) ;
+    background-repeat: repeat-y ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src="../images/scroll_up_press.png" ) ;
+}
+
+.scroll-body-active .scroll-body-mid{
+    background-image: url(../images/scroll_mid_press.png) ;
+    background-repeat: repeat-y ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src="../images/scroll_mid_press.png" ) ;
+}
+
+.scroll-body-active .scroll-body-down{
+    background-image: url(../images/scroll_down_press.png) ;
+    background-repeat: repeat-y ;
+    _background-image: url() ;
+    _filter : progid:DXImageTransform.Microsoft.AlphaImageLoader ( enabled=true , sizingMethod=scale , src="../images/scroll_down_press.png" ) ;
+}

@@ -1,0 +1,36 @@
+
+<html>
+<head>
+      <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+   
+<!-- Sitemap 1.0 -->
+</head>
+<body>
+<OBJECT type="text/site properties">
+<param value="0x800025" name="Window Styles">
+<param value="Arial,9,1" name="Font">
+</OBJECT>
+
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="TE Desktop Online Help"><param name="Local" value="hlp/TEDesktop_concept_00000-en.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Basic Functions"><param name="Local" value="hlp/TEDesktop_xTask_00001-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Downloading and Installing"><param name="Local" value="hlp/TEDesktop_xTask_00002-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Logging In and Out"><param name="Local" value="hlp/TEDesktop_xTask_00003-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Contacts"><param name="Local" value="hlp/TEDesktop_xTask_00004-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Calling"><param name="Local" value="hlp/TEDesktop_xTask_00005-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Presentation Sharing"><param name="Local" value="hlp/TEDesktop_xTask_00008-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Audiovisual Tests"><param name="Local" value="hlp/TEDesktop_xTask_00009-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Settings"><param name="Local" value="hlp/TEDesktop_xTask_00006-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Technical Specifications"><param name="Local" value="hlp/TEDesktop_xTask_00007-en.html"><param name="ImageNumber" value="9"></OBJECT>
+</LI></UL>
+</LI></UL>
+</body>
+</html>

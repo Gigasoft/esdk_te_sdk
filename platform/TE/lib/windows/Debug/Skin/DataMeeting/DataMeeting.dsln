@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="DataMeeting" Author="" Company="" CreateDate="" Path="C:\Users\h00223595\Desktop\directUI\DigitalMeeting3\DataMeeting.dsln"/>
+	<Dui>
+		<Guid1EE362293EC44F9589ABF23DBFE79EC6 DuiName="DataMeeting" DuiPath="C:\Users\h00223595\Desktop\directUI\DigitalMeeting3\DataMeeting.dui">
+			<Guid2A71C57AFB3C45309D852CA87D0B7425 SknName="DataMeeting" SknPath="C:\Users\h00223595\Desktop\directUI\DigitalMeeting3\DataMeeting.skn" Theme=""/>
+		</Guid1EE362293EC44F9589ABF23DBFE79EC6>
+	</Dui>
+</DirectUI>
+

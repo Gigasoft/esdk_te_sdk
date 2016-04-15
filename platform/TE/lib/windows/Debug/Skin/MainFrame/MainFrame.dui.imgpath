@@ -1,0 +1,351 @@
+<IMAGEPATHMAP>
+	<IMAGE name="AVDeviceTest_img">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\tab\tab\摄像头.png"/>
+	</IMAGE>
+	<IMAGE name="AllPOPWIN_BG_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\bg.png"/>
+	</IMAGE>
+	<IMAGE name="Avator_box_22">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\A_HOME_ALL\A_all_touxiangkuang.png"/>
+	</IMAGE>
+	<IMAGE name="BG4417">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\背景\popWinBG1447.png"/>
+	</IMAGE>
+	<IMAGE name="BTN_COM_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\btn_default.png"/>
+	</IMAGE>
+	<IMAGE name="BgMini">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\mini模式的搜索框背景.png"/>
+	</IMAGE>
+	<IMAGE name="Btn_Close_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="Btn_Min_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Min_bg.png"/>
+	</IMAGE>
+	<IMAGE name="Checkbox_Uncheck_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\Setting_chk_icon.png"/>
+	</IMAGE>
+	<IMAGE name="Col1Nav_Bg">
+		<IMAGEPATH colorcase="default" path="C:\Program Files\Polycom\RealPresence Desktop\resources\Icons\background_image.png"/>
+	</IMAGE>
+	<IMAGE name="Col1Nav_Bg2">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Col1Nav_Bg2.png"/>
+	</IMAGE>
+	<IMAGE name="EditCommonBG">
+		<IMAGEPATH colorcase="default" path="F:\HeadEditHot"/>
+	</IMAGE>
+	<IMAGE name="HeadLogoBorderHot">
+		<IMAGEPATH colorcase="default" path="F:\headPicLoGoObj_hot"/>
+	</IMAGE>
+	<IMAGE name="IMediaIcon">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\about\logo2.png"/>
+	</IMAGE>
+	<IMAGE name="INPUT_EDITCTRL_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\INPUT_EDITCTRL_bg-.png"/>
+	</IMAGE>
+	<IMAGE name="MainBgn32">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\内容背景.png"/>
+	</IMAGE>
+	<IMAGE name="MainBgn32White">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\MainBgn32.png"/>
+	</IMAGE>
+	<IMAGE name="Mini_tel_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\A_HOME_ALL\A_all_col1_nav_icon_dail.png"/>
+	</IMAGE>
+	<IMAGE name="Mini_tel_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\A_HOME_ALL\A_all_col1_nav_icon_dail.png"/>
+	</IMAGE>
+	<IMAGE name="Mini_tel_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\A_HOME_ALL\A_all_col1_nav_icon_dail.png"/>
+	</IMAGE>
+	<IMAGE name="ProgessBarFront">
+		<IMAGEPATH colorcase="default" path="F:\Progressbar_font"/>
+	</IMAGE>
+	<IMAGE name="ProgressBarBg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\进度条\progrees-bg.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_BG">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\bg.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_Item_HOT">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\choose-pop.png"/>
+	</IMAGE>
+	<IMAGE name="RK_Pop_LeftBar">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\03右键菜单\切图\右键菜单背景.png"/>
+	</IMAGE>
+	<IMAGE name="RadioBox_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\00全局切图\rdx.png"/>
+	</IMAGE>
+	<IMAGE name="Search_btnPhone_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\B_mini\B_mini_call.png"/>
+	</IMAGE>
+	<IMAGE name="Search_btnPhone_normal">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\B_mini\B_mini_call.png"/>
+	</IMAGE>
+	<IMAGE name="Search_btnPhone_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\B_mini\B_mini_call.png"/>
+	</IMAGE>
+	<IMAGE name="SysInfo_frmbgInner_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\column3\有阴影\column3_无锯齿.png"/>
+	</IMAGE>
+	<IMAGE name="WelcomeTop">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\WelcomeTop弹出框顶部标题头背景.png"/>
+	</IMAGE>
+	<IMAGE name="about_image1">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\about\logo.png"/>
+	</IMAGE>
+	<IMAGE name="acc_meeting_edit_bg">
+		<IMAGEPATH colorcase="default" path="F:\ConnectMeetingDui_frmBg_frmBgInner_cbxNumberInput.png"/>
+	</IMAGE>
+	<IMAGE name="blackPopWin_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\弹窗小圆角.png"/>
+	</IMAGE>
+	<IMAGE name="blackPopWin_pure_NoShaDow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\数据会议纯黑色.png"/>
+	</IMAGE>
+	<IMAGE name="blue_logo_btn">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\20131108114845.png"/>
+	</IMAGE>
+	<IMAGE name="btnContactList_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\临时切图\icon-qiyetongxunlu.png"/>
+	</IMAGE>
+	<IMAGE name="btnGreenBg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\接听.png"/>
+	</IMAGE>
+	<IMAGE name="btnMin">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\所有关闭和最小化按钮\icon-min-WF.png"/>
+	</IMAGE>
+	<IMAGE name="btnRedBg">
+		<IMAGEPATH colorcase="default" path="D:\UCD任务切图\已完成\挂断.png"/>
+	</IMAGE>
+	<IMAGE name="btnReject_Triangle_hot">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\按钮\tanchutiao_hong_you.png"/>
+	</IMAGE>
+	<IMAGE name="btnReject_Triangle_normal">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\按钮\tanchutiao_hong_you.png"/>
+	</IMAGE>
+	<IMAGE name="btnReject_Triangle_press">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\按钮\tanchutiao_hong_you.png"/>
+	</IMAGE>
+	<IMAGE name="btnReject_hot">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\按钮\tanchutiao_lv_you.png"/>
+	</IMAGE>
+	<IMAGE name="btnReject_normal">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\按钮\tanchutiao_lv_you.png"/>
+	</IMAGE>
+	<IMAGE name="btnReject_press">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\按钮\tanchutiao_lv_you.png"/>
+	</IMAGE>
+	<IMAGE name="btnTriangle">
+		<IMAGEPATH colorcase="default" path="F:\col1_trangle_24.png"/>
+	</IMAGE>
+	<IMAGE name="chxExpandColumn3_check_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\Col 1\A_all_close&amp;min_11.png"/>
+	</IMAGE>
+	<IMAGE name="chxExpandColumn3_check_nor">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\Col 1\A_all_close&amp;min_11.png"/>
+	</IMAGE>
+	<IMAGE name="chxExpandColumn3_check_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\Col 1\A_all_close&amp;min_11.png"/>
+	</IMAGE>
+	<IMAGE name="chxExpandColumn3_uncheck_hot">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\Col 1\A_all_close&amp;min_10.png"/>
+	</IMAGE>
+	<IMAGE name="chxExpandColumn3_uncheck_nor">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\Col 1\A_all_close&amp;min_10.png"/>
+	</IMAGE>
+	<IMAGE name="chxExpandColumn3_uncheck_press">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\Col 1\A_all_close&amp;min_10.png"/>
+	</IMAGE>
+	<IMAGE name="clientLogo">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\clientLogo.png"/>
+	</IMAGE>
+	<IMAGE name="close3.spp">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\Btn_Close_bg.png"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_add.spp">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\tab\tab\添加.png"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_contact.spp">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\tab\tab\联系人.png"/>
+	</IMAGE>
+	<IMAGE name="col1_nav_icon_dail.spp">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\tab\tab\拨号盘.png"/>
+	</IMAGE>
+	<IMAGE name="col2_top_NoShaDow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\y00135380\Desktop\Col2_bg.png"/>
+	</IMAGE>
+	<IMAGE name="col2_top_new_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\主面板\Col2_Top_bg_255_NEW.png"/>
+	</IMAGE>
+	<IMAGE name="col3_NoShadow_white_bg">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\bg.png"/>
+	</IMAGE>
+	<IMAGE name="coll_nav_icon_history">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\tab\tab\历史记录.png"/>
+	</IMAGE>
+	<IMAGE name="coll_nav_icon_setting">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\01联系人\切图\mainframe\coll_nav_icon_setting.png"/>
+	</IMAGE>
+	<IMAGE name="dragbg_NoShadow_bg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\去阴影\wf\wfDIY\PopWin_white_bg.png"/>
+	</IMAGE>
+	<IMAGE name="eSpaceAbout">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\eSpaceAbout 副本.png"/>
+	</IMAGE>
+	<IMAGE name="eSpaceUpdateBG">
+		<IMAGEPATH colorcase="default" path="F:\eSpaceUpdate.spp"/>
+	</IMAGE>
+	<IMAGE name="frmFrameTopbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\主面板\main_03.png"/>
+	</IMAGE>
+	<IMAGE name="grayLine">
+		<IMAGEPATH colorcase="default" path="F:\line.png"/>
+	</IMAGE>
+	<IMAGE name="im_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\切图汇总\A_HOME_ALL\A_all_fangkuang(huise).png"/>
+	</IMAGE>
+	<IMAGE name="im_minimize_btn">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00216304\Desktop\im_minimize_btn.png"/>
+	</IMAGE>
+	<IMAGE name="input_normal">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\A_HOME_ALL\A_all_txt_bg.png"/>
+	</IMAGE>
+	<IMAGE name="ldap_bg">
+		<IMAGEPATH colorcase="default" path="D:\ChengChen\share\tab\tab\通讯录.png"/>
+	</IMAGE>
+	<IMAGE name="listviewItem_bg_normal">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\popWinListItembg\cutline.png"/>
+	</IMAGE>
+	<IMAGE name="listviewItem_bg_selected">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\popWinListItembg\pop_menu_selected.png"/>
+	</IMAGE>
+	<IMAGE name="main_nav_advice_bg">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\Administrator\桌面\新建文件夹\意见反馈.png"/>
+	</IMAGE>
+	<IMAGE name="main_nav_group">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_HOME_ALL\第一栏图标96x32\A_all_col1_nav_icon_group (2).png"/>
+	</IMAGE>
+	<IMAGE name="main_status_frame">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\main_status_frame.png"/>
+	</IMAGE>
+	<IMAGE name="mainframe_logo">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00220604\Desktop\logo_左上角.png"/>
+	</IMAGE>
+	<IMAGE name="mini_contactbg">
+		<IMAGEPATH colorcase="default" path="C:\Users\h00223595\Desktop\col1_contact_card.png"/>
+	</IMAGE>
+	<IMAGE name="mini_query_bg">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\huawei\桌面\新建文件夹\column2_bg.png"/>
+	</IMAGE>
+	<IMAGE name="mini_querycontent_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\通用\column2\search_enter box(2).png"/>
+	</IMAGE>
+	<IMAGE name="mini_queryfrm_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\B_mini\B__300.png"/>
+	</IMAGE>
+	<IMAGE name="mini_serach_query">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\B_mini\B_mini_search(3).png"/>
+	</IMAGE>
+	<IMAGE name="msgTipIcon">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\弹出框\inf2.png"/>
+	</IMAGE>
+	<IMAGE name="online_img">
+		<IMAGEPATH colorcase="default" path="D:\TE Desktop项目\TE Desktop V500R002C00切图\补充切片\main_status_online.png"/>
+	</IMAGE>
+	<IMAGE name="popWin4444">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\通用\column3\bg_4px.png"/>
+	</IMAGE>
+	<IMAGE name="popwin_item_hover">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\自己整理的切图\popwin_item\pop_menu_selected.png"/>
+	</IMAGE>
+	<IMAGE name="popwin_item_normal">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\自己整理的切图\popwin_item\cutline.png"/>
+	</IMAGE>
+	<IMAGE name="portrait_border_img">
+		<IMAGEPATH colorcase="default" path="C:\Users\z00220320\Desktop\portrait_border_img.png"/>
+	</IMAGE>
+	<IMAGE name="red16S">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\red16S222222.png"/>
+	</IMAGE>
+	<IMAGE name="red_16">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\通用\状态图标\状态图标\G_IM_hong_17x17.png"/>
+	</IMAGE>
+	<IMAGE name="settingIcon_shandian">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\A_HOME_ALL\A_all_shangdian.png"/>
+	</IMAGE>
+	<IMAGE name="status7">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_31\切图汇总\通用\状态图标\G_IM_chen_7X7.png"/>
+	</IMAGE>
+	<IMAGE name="statusEditBg">
+		<IMAGEPATH colorcase="default" path="F:\statusEdit.png"/>
+	</IMAGE>
+	<IMAGE name="status_9_9">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\huawei\桌面\新建文件夹\G_IM_lu_9X9.png"/>
+	</IMAGE>
+	<IMAGE name="status_9_9_away">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\huawei\桌面\新建文件夹\G_IM_shizhong_9X9.png"/>
+	</IMAGE>
+	<IMAGE name="status_9_9_busy">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\huawei\桌面\新建文件夹\G_IM_hong_9X9.png"/>
+	</IMAGE>
+	<IMAGE name="status_9_9_no_disturb">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\huawei\桌面\新建文件夹\G_IM_wurao_9X9.png"/>
+	</IMAGE>
+	<IMAGE name="status_9_9_offline">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\huawei\桌面\新建文件夹\G_IM_cha_9X9.png"/>
+	</IMAGE>
+	<IMAGE name="status_icon_7_7">
+		<IMAGEPATH colorcase="default" path="C:\Documents and Settings\huawei\桌面\新建文件夹\G_IM_stua7X7.png"/>
+	</IMAGE>
+	<IMAGE name="stcDayBg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\G_IM\Col 3\G_IM_hui.png"/>
+	</IMAGE>
+	<IMAGE name="stcStatus_bg">
+		<IMAGEPATH colorcase="default" path="D:\wf\切图-曾江珊\wf切图汇总\通用\状态图标\G_IM_icon_7x7.png"/>
+	</IMAGE>
+	<IMAGE name="subMenuIcon">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\830版本整改\右键菜单\sanjiao-pop.png"/>
+	</IMAGE>
+	<IMAGE name="synchronizeIcon_bg">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\汇总\切图汇总\A_Home_master\A_master_gengxin.png"/>
+	</IMAGE>
+	<IMAGE name="test">
+		<IMAGEPATH colorcase="default" path="C:\Users\w00223307\Desktop\colorblock.png"/>
+	</IMAGE>
+	<IMAGE name="update_chkbox">
+		<IMAGEPATH colorcase="default" path="F:\checkbox.spp"/>
+	</IMAGE>
+	<IMAGE name="welcome">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\自己整理的切图\bg\column2_bg.png"/>
+	</IMAGE>
+	<IMAGE name="welcome_bottom">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\自己整理的切图\bg\column2_bottom.png"/>
+	</IMAGE>
+	<IMAGE name="welcome_bottom_noshadow">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\通用\column2\额热热\column3_bottom1.png"/>
+	</IMAGE>
+	<IMAGE name="welcome_bottom_syncIcon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\切图与标注\qietu\qietu\动画\wincicle.png"/>
+	</IMAGE>
+	<IMAGE name="welcome_freetime_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012-6-29-2\切图汇总\A-HOME-ALL\rili(huise).png"/>
+	</IMAGE>
+	<IMAGE name="welcome_noshadow">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\通用\column2\coloum3_ffffff.png"/>
+	</IMAGE>
+	<IMAGE name="welcome_selfinfo_icon">
+		<IMAGEPATH colorcase="default" path="\\10.166.100.177\pc客户端（uc2.0）\04-切图\A_Home_master\A-Master_p.png"/>
+	</IMAGE>
+	<IMAGE name="welcome_sysInfo_icon">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012-6-29-2\切图汇总\A-Home_master\A-H-Master-l.png"/>
+	</IMAGE>
+	<IMAGE name="welcome_top">
+		<IMAGEPATH colorcase="default" path="C:\Users\l00216304\Desktop\新建文件夹\MainFrame\welcome_top"/>
+	</IMAGE>
+	<IMAGE name="welcome_top_noshadow">
+		<IMAGEPATH colorcase="default" path="E:\song\directUI\最新的效果\汇总2012_7_16\通用\column2\额热热\column3_top.png"/>
+	</IMAGE>
+</IMAGEPATHMAP>
+

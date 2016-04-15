@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectUI>
+	<SlnInfo Name="Conference" Author="" Company="" CreateDate="" Path="D:\SVN\V500R002C00\Windows\Winbin\Debug\Skin\Conference\Conference.dsln"/>
+	<Dui>
+		<Guid2D210D9CC84E44A3B0B4405A40BEB2CA DuiName="Conference" DuiPath="D:\SVN\V500R002C00\Windows\Winbin\Debug\Skin\Conference\Conference.dui">
+			<GuidEE34FB3A8F334C269F0002BE1923FCA2 SknName="Conference" SknPath="D:\SVN\V500R002C00\Windows\Winbin\Debug\Skin\Conference\Conference.skn" Theme=""/>
+		</Guid2D210D9CC84E44A3B0B4405A40BEB2CA>
+	</Dui>
+</DirectUI>
+
